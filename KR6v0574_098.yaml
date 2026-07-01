@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/98
+seq: 98
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復衛西琴先生書衛西琴先生大鑒兩次傾談極為心洽今以依先生教育之宗旨而欲達其目的必須先從大乘佛化以得到符合外內上下渾然一體之宇宙人生實際之孔家儒化與大乘佛化乃能收事半功倍之效承先生之誠懇垂問謹以此意貢獻幸參究之並祝得大成功外表形下的人世物質人生宇宙之真實人群渾然一體精神內容形上的人心西洋大部文化偏於外表形下的東洋一部文化偏於內容形上的孔家儒化是符合外內下上渾然一體之宇宙人生實際施行者注重之點在乎人群如何調達人群之內心使發為適宜人群性情之常德倫理如何制用人群之外世使成為適宜人群生活之器具事物大乘佛化是符合外內上下渾然一體之無限世界衆生實際施行者注重之點即在無限世界衆生之實際使之消除過患成滿功德平均發達以至無上之佛法界見海刊六卷六期
+  hash: sha256:30dea5160f17a29e2204f61964bf6bb6b0c89e259a705aaa16c55c849812419c
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_098-juan-start, juan_n: 098}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:0e625a9fde4210f7020a6d7cfcb68f74aebb353e480594e0e3a49b4618f722ea

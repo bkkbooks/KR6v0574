@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/124
+seq: 124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致范古農李經緯居士書兩居士均鑒佛學書局得二公主持前途當可有美滿之成績然鄙意若循舊式必難將佛學打入思想界之中心引起人普遍的研究故今擬為各科目及方法并擬擔任之人冀分別函請而佛教法要一書尤為需要代禪門日誦擬由古農居士編纂然亦非博涉大藏不能也專此即訊近安太虛啟附華文佛學之分科研究略見居士林林刊第二十五期
+  hash: sha256:55d1f19f1cd06433fb46a186bff7127c9bf5f9cc2168a5094eab0e861ccddf89
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_124-juan-start, juan_n: '124'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:0c22e4eb115a28e5a2bf1c8f8e1dd5dc4dc27a6cb5b7bf8e38ac2802f7e7d9bc

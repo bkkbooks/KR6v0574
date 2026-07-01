@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆吠檀陀學會書嘉爾德奇先生荷惠書并贈以貴會會章閲悉甚感大乘佛法為博通一切宏濟群生起見對於世間道術固皆須學之況與佛法關係素深之吠檀陀學哉承囑參加研究謹表意願如貴會更能研究發達在東亞之大乘佛法則尤幸甚專復即頌道安太虛謹啓見海刊九卷十一期
+  hash: sha256:889afbf70f7a0cba67be06efd5f1a3e5f67d8456fc9c381865f5bca43bcd2cd5
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_013-juan-start, juan_n: '013'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:eb537974c3d08c68fe3cbeccb57f0b356911470ea0d68cb0f9a9297d83d0bb22

@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/77
+seq: 77
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復王實居士書, id: KR6v0574_TX_077-mulu-1, level: '2'}
+  back: []
+hash: sha256:72b1d9727b4115a44c73be112d8b3c1a9f997d33ff20e10f30f9c3b9f1e1dac4

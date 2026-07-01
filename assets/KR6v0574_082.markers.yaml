@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/82
+seq: 82
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆淨平居士書, id: KR6v0574_TX_082-mulu-1, level: '2'}
+  back: []
+hash: sha256:f94c7ff54d374b2db68bee908be41971ee5bd6beeadf61aae237936f9d631fe4

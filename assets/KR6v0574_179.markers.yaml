@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/179
+seq: 179
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 唁趙戴文電, id: KR6v0574_TX_179-mulu-1, level: '2'}
+  back: []
+hash: sha256:f9240cf840404243946c340472661b2eedec55832050a96b040361a189675bf3

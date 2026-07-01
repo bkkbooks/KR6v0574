@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/104
+seq: 104
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 致雲南唐省長書, id: KR6v0574_TX_104-mulu-1, level: '2'}
+  back: []
+hash: sha256:2313e619fc6cb8578a35c7e988233cae307b7b62f74f6e96cd226fb2dde765fb

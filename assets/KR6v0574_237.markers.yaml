@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/237
+seq: 237
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答王遠孝問, id: KR6v0574_TX_237-mulu-1, level: '2'}
+  back: []
+hash: sha256:139c8a3e85188bbd3b5f464e4b00abc54660113f74e7ee75af08e37990e3b1ff

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與止安書止安座下茲由吳校長來商定關于大雄中學之事務由校長聘座下為事務主任月薪肆百元並由校董會委兼會計監督則係義務負責依收支預算施行如有超過則須與校長陳明校董會始得開支另由校長委余自力為會計員辦理寫賬製表冊等月薪貳百元並委金劍管理員真容兼庶務員協辦事務月薪壹百元所有會計員庶務員均在事務主任領導下辦理其職務希稟承校長以襄成良美之校風為主校董會董事長太虛卅二年二月二十六日稿存止安法師處
+  hash: sha256:ff52a30c2c104db6a7a3274fbd2b1b2489a4ed6a005d5e2fa0c3b0415bae6295
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_047-juan-start, juan_n: '047'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:4c7aa8686162a2532114164b2784ae99d51d941d2455d79c6e8226197bbdb6f8

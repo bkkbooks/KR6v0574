@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/237
+seq: 237
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答王遠孝問問一般人認為佛教並不能救國則是佛教思想不適合於抗戰期中答此為一般人對於佛教之論調以為佛教不如回教適合抗戰因回教徒能團結抗爭然云佛教不適合於抗戰非佛教本身無組織不能抗戰因偏用佛教一部分消極自了而不用大乘救世精神或致人口減少政綱日弛于是歸過於佛教若能發揮大乘佛教救世精神自可救國救民程心勉記見海刊二十六卷六七期合刊
+  hash: sha256:1ef8ff5725d90113924975a98b86d56915aaa6deecce1fe363600c1a8dcc87de
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_237-juan-start, juan_n: '237'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:eed8354f3ff7094ccad2a053b840e96e30d4cd37799ddfb177431b7b8565c90c

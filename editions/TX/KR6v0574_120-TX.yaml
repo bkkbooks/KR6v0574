@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/120
+seq: 120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆萬梁居士書萬梁居士鑒接來函欣悉居士發大乘心宏法救世與諸上善設佛聲社甚善甚善今為取法名慧聲以為紀念所須各書此間手頭已無請按照海潮音上所載各發行處購請為盼順頌靜安太虛白見海刊十一卷一期
+  hash: sha256:598c5cccfec47d778c32d25609fa4b141b02c0221e344b0c84574e3892ae1b2e
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_120-juan-start, juan_n: '120'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:d0a8b66aec4fa753d0c02edb7caa51d50f2b6e58b860283ff8ca1d5567ac2608

@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/55
+seq: 55
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復正果書, id: KR6v0574_TX_055-mulu-1, level: '2'}
+  back: []
+hash: sha256:3fe34aad59e70743b0f6ef1120f292e037027eb6f0a034e66d89157bf14579b3

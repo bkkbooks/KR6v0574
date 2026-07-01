@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/179
+seq: 179
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_179-0307a02, ed: TX, 'n': 0307a02}
+  - {type: 其他, offset: 0, content: 唁趙戴文電, id: KR6v0574_TX_179-mulu-1, level: '2'}
+  - {type: line-break, offset: 5, content: '', id: KR6v0574_TX_179-0307a03, ed: TX, 'n': 0307a03}
+  - {type: xml-element, offset: 5, content: '', id: pTX26p0307a0301, name: p, role: open, attrs: {'xml:id': pTX26p0307a0301, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 15, content: ：, id: KR6v0574_TX_179-bkkpn1}
+  - {type: punctuation, offset: 19, content: ，, id: KR6v0574_TX_179-bkkpn2}
+  - {type: punctuation, offset: 23, content: ！, id: KR6v0574_TX_179-bkkpn3}
+  - {type: punctuation, offset: 30, content: ，, id: KR6v0574_TX_179-bkkpn4}
+  - {type: punctuation, offset: 34, content: ，, id: KR6v0574_TX_179-bkkpn5}
+  - {type: line-break, offset: 35, content: '', id: KR6v0574_TX_179-0307a04, ed: TX, 'n': 0307a04}
+  - {type: punctuation, offset: 38, content: ；, id: KR6v0574_TX_179-bkkpn6}
+  - {type: punctuation, offset: 46, content: ！, id: KR6v0574_TX_179-bkkpn7}
+  - {type: punctuation, offset: 57, content: 。, id: KR6v0574_TX_179-bkkpn8}
+  - {type: xml-element, offset: 57, content: '', id: pTX26p0307a0301_end, name: p, role: close, attrs: {'xml:id': pTX26p0307a0301, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 57, content: '', id: KR6v0574_TX_179-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 57, content: （, id: KR6v0574_TX_179-bkkpn9}
+  - {type: punctuation, offset: 66, content: ）, id: KR6v0574_TX_179-bkkpn10}
+  - {type: xml-element, offset: 66, content: '', id: KR6v0574_TX_179-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:86c3952cad55371a157c1165ff3973780fc76a0143a8070fd9aa9156c3a0858b

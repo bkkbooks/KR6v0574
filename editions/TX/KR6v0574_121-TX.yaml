@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/121
+seq: 121
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆陳肇琪君書奉教無任欣感遙荷垂詢茲寄上拙著在家士女學佛程序一冊希賜察及之又首都已由中國佛學會設有星期研究會若能加入當不無互助之益專復并頌時祉太虛啟十八年十二月三日見海刊十一卷二期
+  hash: sha256:c4c4efbd3e2f7047780f2109210dc1a9a4093cd21c32d5a7ac8a61d06488aa7f
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_121-juan-start, juan_n: '121'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:a9852b0dec51b97e4e4c2f6d3adf70996d456750b693451f6812029c8e0bfaa2

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/164
+seq: 164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 佛教訪問團通電各通訊社各報館轉全國同胞海外僑胞暨全世界佛教徒公鑒太虛等頃因國中文化界之啟發佛學人士之贊助及海外各地佛徒之籲請爰組織成立本團將赴緬甸錫蘭印度暹羅等處朝拜佛教諸聖地訪問各地佛教領袖藉以聯絡同教之感情闡揚我佛之法化並宣示中國民族為獨立生存與公平正義之奮鬥佛教徒亦同在團結一致中而努力因此佛教愈得全國上下之信崇隨新中國之建成必將有新佛教之興立堪以奉慰吾全世界真誠信仰佛教之大眾洎崇拜贊揚東方道德文化者之喁望茲者本團取道滇緬公路出發在即敬布衷誠佇聞明教佛教訪問團導師兼團長太虛率全體團員叩皓見海刊二十卷九期
+  hash: sha256:ed1264c141a1ec0e00bdd6f9b21fa3545f38f637f2b59e3ea7f32d50b24b5bd3
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_164-juan-start, juan_n: '164'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:7ad4bcb1a32f110f22f2c3487f6b1b293a1fe1bae99b4471d80f22b2fcf92250

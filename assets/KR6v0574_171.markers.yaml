@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/171
+seq: 171
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 電賀緬僧高壽, id: KR6v0574_TX_171-mulu-1, level: '2'}
+  back: []
+hash: sha256:c0b7c6acab3741d937da627e71eb5e0c8d0b274b0a0221ca76467e128feb539e

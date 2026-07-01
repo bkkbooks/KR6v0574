@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/167
+seq: 167
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 電賀歐洲佛教大會英國倫敦歐洲佛教大會公鑒敬祝歐洲佛教前途之光明漢口佛教正信會代表太虛叩馬見正信五卷一期
+  hash: sha256:5a3eebd973873d91b909ece87da902980a0758d1a10366d54f328fa8190613a5
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_167-juan-start, juan_n: '167'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:de5cd479f0424f6128153a3583105d2cb83fe2df79abcf166b4be2a9bb34995a

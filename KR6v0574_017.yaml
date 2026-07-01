@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復支那內學院書謹復者茲由中國佛學會轉下貴院關於佛誕紀元論之刊定書對於計算之疏差一年與所根據之島地三國佛教略史及藤井佛教小史之僞謬藉彰比來對於釋尊生卒年代之研究益有進步則佛誕紀元論不無激發之功而誠足為全國佛教徒之榮矣其間本無人我勝負之容心更何用吐䂎相刺也哉惟是中國佛教會之本意在求得一各國統一之佛教紀元而貴院雖可堅持自說然對於西藏錫蘭日本乃至國內諸異執亦仍無融合之道則遺憾猶在耳此復支那內學院太虛二十二年二月十一日茲據支那內學院之考證錫蘭原傳佛滅迄今為二四七六載逆推佛誕今年應為二五五六年或二五五五年特此更正太虛附志見正信二卷三期
+  hash: sha256:e727bc9eb5b05612c1fa8d43aef8add39babe708cb0339f106b35f97d0b2a10c
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_017-juan-start, juan_n: '017'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:5356180000fcb71a32c941758d617c6aa1172e70f22b0813619d553b2062ca8f

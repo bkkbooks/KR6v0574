@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/224
+seq: 224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答熊道琨張世俊問問琨等閲禪家話頭覺有所疑如謂煩惱即菩提悟同未悟修同未修則釋迦大可不必多事衆生亦不必修行如煩惱非菩提則墮分別相與佛說不合如云即字係煩惱性與菩提性相同之謂則其不同者安在如說即是理邊不同是事邊而事理不二應無分別答宗明法性蓋煩惱菩提悟修等法皆無自性之平等性迷悟非異生佛一如釋迦衆生不可得何論多不多事修不修行此其冥事存理與明事相及明事理無礙言各有宗也見正信七卷五六期合刊
+  hash: sha256:345ca11ba22f71d313358f76909b012f53b050ac10cee271f67d9acb1dda0ed8
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_224-juan-start, juan_n: '224'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:20cefadf094f64417fafd87f5bdc0299395b9be286b6fd12bdeeff900e26c3db

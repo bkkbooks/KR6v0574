@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/196
+seq: 196
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答周頌堯問（五則）, id: KR6v0574_TX_196-mulu-1, level: '2'}
+  back: []
+hash: sha256:e55d0bbb88f3601b6051ba110071820fb1db96aa48128c60af72c4288396cd7b

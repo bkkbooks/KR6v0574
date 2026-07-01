@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/57
+seq: 57
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 與茗山書, id: KR6v0574_TX_057-mulu-1, level: '2'}
+  back: []
+hash: sha256:0c6802b57b2dd7568d449735675b606ea74b0bb9c2665741afb5dd3a8a8c7b38

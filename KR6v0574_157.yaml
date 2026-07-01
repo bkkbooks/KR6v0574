@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/157
+seq: 157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致蘇慧純居士書慧純居士吉堂的本家蔡天一託寫了好幾張字好久不來拿去如知他的地址囑來取去太虛三六見覺有情八卷六號
+  hash: sha256:a39bfef3800a4340e5235894644f6102eeaa466592a101e728d3b596b0d08de2
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_157-juan-start, juan_n: '157'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:9f27c9d0756e4149fa22be8e306a9726c0d738a3fc7fbcb29f116d81da02e1b9

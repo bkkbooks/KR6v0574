@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/169
+seq: 169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 電賀草堂寺宗鏡和尚成都草堂寺自立佛化初中學校宗鏡校長慧鑒接誦大函藉悉近感僧材缺乏創辦佛化初中學校于九月念一開學等由仰見仁者高瞻遠囑於抗戰期中不殫艱勞拼此熱心毅力預為儲材辨器將來龍象輩出荷擔如來家業正可拭目以待也特電奉覆用伸賀悃世界佛學苑漢藏教理院院長太虛哿印見三十年十月二日佛化新聞
+  hash: sha256:d59cc6643798854fea2adb46b17fb76d79c2c514acea4226ae59d0bf20b9cf1d
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_169-juan-start, juan_n: '169'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:08ecb4b12f767db13add985d06d398e86222a4abf0c0acf058c8af49a5f07c52

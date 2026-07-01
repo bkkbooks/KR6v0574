@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/66
+seq: 66
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復志禪先生書, id: KR6v0574_TX_066-mulu-1, level: '2'}
+  back: []
+hash: sha256:7d8649c408074577be76e5b7188f7cb90fbd02871c55f49a1495d27a1b949c35

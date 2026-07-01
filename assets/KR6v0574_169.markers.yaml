@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/169
+seq: 169
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 電賀草堂寺宗鏡和尚, id: KR6v0574_TX_169-mulu-1, level: '2'}
+  back: []
+hash: sha256:53a2500c09a1bb7492c56392a49f40d578968e226a128b51212d8eeb141d42d1

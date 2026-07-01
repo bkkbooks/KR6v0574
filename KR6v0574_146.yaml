@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/146
+seq: 146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復李蔭亭居士書蔭亭居士鑒得書悉隱修五台為欣為慰所譬三期頗佳但吾意確立僧寺整理法乃是軍政使僧出家受戒修學辦事皆如法整理而在家佛徒亦皆助成乃為訓政整理完成僧能真住持佛法在家能正信護佛法乃入憲政今去初期尚遠遑云三期幸再慧察勿得少喜足并祝精進太虛手復二五十二一見海刊十七卷十一期
+  hash: sha256:29f32e3951ac9f0af2ae7662af4fee0234824a992257d6e014706bc5d483cc63
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_146-juan-start, juan_n: '146'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:1173ae983a509efb95c300820bff3f83d06b2311d4dabfff90e286f7bbe8b2f6

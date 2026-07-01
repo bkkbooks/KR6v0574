@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/106
+seq: 106
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致蔣慧雄蘇慧純二居士書慧雄慧純二居士清鑒講經會籌備經過得來函籍悉一一殊慰王君曾來函對于星洲諸居士之熱心籌備亦多贊美之辭僅云彼因政事關係回廈可見其同心為法也當以函慰之以安其心惟衲在杭明日講畢而北京開聯合佛學會講演會會為汪大燮熊希齡諸元老與學界同人發起請衲主講期以兩旬及途中往返恐非一月又半不能畢事故赴星之最早日期亦須在陰曆七月半間預定八月初一開講當可來得及也上海日興行云已匯來規銀四百兩覆函暫存屆時收用耳為適機宜現作建設人間淨土論擬在星洲講之或印好帶來也兼可由貴處徑向武昌察院坡正信印務館購維摩講義佛乘宗要論各三百本以備或講此二種之用約匯百圓可也專此並頌天恩葆光漢民俊承克章子暉暨職員諸公均安見海刊七卷十期
+  hash: sha256:b283b72d358540150b73b91e22ee701b62f7fd76a058caa1cdea5413431ce2cf
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_106-juan-start, juan_n: '106'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:ab6d47598a26a1e9b41519398f2942968dd02ab69c44a8e975cfad53e6cf94ed

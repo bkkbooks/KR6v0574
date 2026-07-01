@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/191
+seq: 191
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答石扶持問, id: KR6v0574_TX_191-mulu-1, level: '2'}
+  back: []
+hash: sha256:ae196787d22c63c09f9b8199b5f66a10a34dba95c76a74fdb812ad6eef43294b

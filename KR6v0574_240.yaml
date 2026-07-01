@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/240
+seq: 240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答余樹東問二則問一印度佛教情形如何答一印度人多數信仰印度教印度教乃混合婆羅門教耆那教佛教而成其中婆羅門人多故婆羅門教勢較深問二佛教與儒教並行而中國佛教仍難盛行何故答二因為在中國政治地位上儒家先有其優勢居政治地位者多屬儒者故佛教推行頗難若居政治地位其先屬佛教徒則推行佛教若今日之緬甸暹羅等則佛教亦可為治國之道非不若儒家也程心勉記見海刊二十六卷六七期合刊
+  hash: sha256:678792d594120559e042551f1deee6290206cbdfb9d36b5f33907d9c3228219b
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_240-juan-start, juan_n: '240'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:7816e7a36ff090b19d71c09712e79e1c8b25752f78697d85e206e4149e1b3120

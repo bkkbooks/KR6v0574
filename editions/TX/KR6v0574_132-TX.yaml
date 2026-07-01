@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆余乃仁居士電余乃仁居士台鑒電悉發起救國僧軍事甚佩虛適旅行他處致稽覆為歉用我不入地獄誰入地獄之大無畏精神作民皆救國家僧亦救國家之真有力行動此其時矣但以佛教救國軍或僧伽救國軍為善如何組織如何出發當在偉籌詳畫中耳太虛見海刊十三卷五期
+  hash: sha256:66ebad1e91bb034ced354f188f53f5f0351a3bf77cf9fd1699052eff6ee6e12b
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_132-juan-start, juan_n: '132'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:5e6813c08159848f24e55f81a3311b70351a781c50cf6e6dc883f150076c45c7

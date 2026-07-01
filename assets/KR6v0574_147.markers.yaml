@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/147
+seq: 147
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復羅閣英居士書, id: KR6v0574_TX_147-mulu-1, level: '2'}
+  back: []
+hash: sha256:ced8faee11aec4948ca977e4b86235fcce3f1fcb1539d7d06cea374597a9d0ed

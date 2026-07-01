@@ -1,0 +1,30 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/7
+seq: 7
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_007-0004a07, ed: TX, 'n': 0004a07}
+  - {type: 其他, offset: 0, content: 復國民大學函, id: KR6v0574_TX_007-mulu-1, level: '2'}
+  - {type: line-break, offset: 6, content: '', id: KR6v0574_TX_007-0004a08, ed: TX, 'n': 0004a08}
+  - {type: xml-element, offset: 6, content: '', id: pTX26p0004a0801, name: p, role: open, attrs: {'xml:id': pTX26p0004a0801, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 15, content: ：, id: KR6v0574_TX_007-bkkpn1}
+  - {type: indent, offset: 19, content: 　, id: KR6v0574_TX_007-bkkind1}
+  - {type: punctuation, offset: 32, content: ，, id: KR6v0574_TX_007-bkkpn2}
+  - {type: punctuation, offset: 37, content: 。, id: KR6v0574_TX_007-bkkpn3}
+  - {type: line-break, offset: 37, content: '', id: KR6v0574_TX_007-0004a09, ed: TX, 'n': 0004a09}
+  - {type: punctuation, offset: 45, content: ，, id: KR6v0574_TX_007-bkkpn4}
+  - {type: punctuation, offset: 66, content: 。, id: KR6v0574_TX_007-bkkpn5}
+  - {type: line-break, offset: 72, content: '', id: KR6v0574_TX_007-0004a10, ed: TX, 'n': 0004a10}
+  - {type: punctuation, offset: 72, content: ，, id: KR6v0574_TX_007-bkkpn6}
+  - {type: punctuation, offset: 86, content: ，, id: KR6v0574_TX_007-bkkpn7}
+  - {type: punctuation, offset: 90, content: ，, id: KR6v0574_TX_007-bkkpn8}
+  - {type: punctuation, offset: 94, content: ！, id: KR6v0574_TX_007-bkkpn9}
+  - {type: punctuation, offset: 99, content: 。, id: KR6v0574_TX_007-bkkpn10}
+  - {type: xml-element, offset: 99, content: '', id: pTX26p0004a0801_end, name: p, role: close, attrs: {'xml:id': pTX26p0004a0801, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 99, content: '', id: KR6v0574_TX_007-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 99, content: （, id: KR6v0574_TX_007-bkkpn11}
+  - {type: line-break, offset: 103, content: '', id: KR6v0574_TX_007-0004a11, ed: TX, 'n': 0004a11}
+  - {type: punctuation, offset: 106, content: ）, id: KR6v0574_TX_007-bkkpn12}
+  - {type: xml-element, offset: 106, content: '', id: KR6v0574_TX_007-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:e27291c7df45764925c8e9cc399b0e0cb19729b17b45a22798ed6b9668c16cb0

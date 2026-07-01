@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/167
+seq: 167
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 電賀歐洲佛教大會, id: KR6v0574_TX_167-mulu-1, level: '2'}
+  back: []
+hash: sha256:4a2ed7e2d40b2fd70056a0f63a8ec63e467c460bccd6f6e41793c3a780692009

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/193
+seq: 193
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答純保問三則答一前眼耳鼻舌身之五識以第六意識為分別依前眼耳鼻舌身意之六識以第七末那識為染淨依而第六意識僅從五緣生者以較眼識之九緣除去明空分別根之四緣故除去明空可知除去分別依者因正是第六識之自身故除去根者因第六識以末那為根根即染淨依故答二散位獨頭意識者即除去夢位之獨頭意識及定位之獨頭意識所餘之獨頭意識皆是也答三且先從覺書海潮音諸講明唯識者類聚研究之再進求成唯識論可也見海刊三卷五期
+  hash: sha256:080af304ba214cc07a65aed32cfb5cbcf8992581e99a1f026244c6c289d441e5
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_193-juan-start, juan_n: '193'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:ad38a6190eda67ed17737e4ab3a78f8aee284027e049975eebf53510ed74cb61

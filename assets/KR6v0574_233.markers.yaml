@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/233
+seq: 233
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答姚際虞問（二則）, id: KR6v0574_TX_233-mulu-1, level: '2'}
+  back: []
+hash: sha256:e477ae16ce103d1c91794a2f78e1e2a4ac66e843f6b9273586719b00885bef89

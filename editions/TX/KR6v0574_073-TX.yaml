@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/73
+seq: 73
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復蔡育之先生書育之先生鑒來書稱頌逾恆愧不能副此為歉佛門各宗派通俗易修允推淨土而隨人根性不同則亦不拘此例修禪之論散見於各種經論集成之者則有天台小止觀禪波羅密次第法門大乘止觀摩訶止觀各書足堪取資可向各佛經流通處請之門徑諸書若覺社叢書海潮音大乘教義佛學大小辭典等均可其流通處大概皆見於各期海潮音之介紹而首楞嚴經與大乘起信論不可不讀也此復即訊道安太虛敬復見海刊一卷十期
+  hash: sha256:32f6e60e7b6a151bf79fa7fec6c478a1df6d3a1353ed5d8aa3406bb27e451fd9
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_073-juan-start, juan_n: '073'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:94f6b08e5dd91ff40616543a1097288b2d8859dc8480482aab5a95b4a3010958

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆徐潤琴居士書慧敷居士鑒宜沙同遊恍然猶在心目而自春徂冬忽將卒歲每一回思輒為慨嘆前聞抵省垣正擬邀為一聚旋悉以因病回沙今得來示頗令心慰所云經懺之事佛言比丘乞食以資生命此為今僧眾唯一乞食法門能整理完善洵為兩利之道但僧同散沙各謀其食寧有整理可言無已其將拙著整理僧伽制度論集資刊行各寺並由各縣長召集教務會議以組一某某縣各寺院應赴經懺聯合處而整理之耳此訊近益太虛和南見海刊四卷十一期
+  hash: sha256:0c790d99360bcbdf14116d6e90fc67650ccbc8e3f8cc8a35c794351439e82e55
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_088-juan-start, juan_n: 088}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:5c32a499084b23bc06a16e7ea302776da560718afa18b33e4d14d3654cb2eb4e

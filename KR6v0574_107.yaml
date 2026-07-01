@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/107
+seq: 107
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致李鐵民先生書鐵民先生屢讀大作承獎飾逾恆殊愧惟提倡佛化之熱忱則赫然具瞻矣惟衲不久他去而星洲所需者則要有少數有思想者來成一佛學研究之小團體為宣傳佛教之中堅天福宮將有此種之組織如荷加入共同研究則未始非星僑之福也太虛扶病不莊見海刊七卷十期
+  hash: sha256:66b83baba70fb1868d9d09e37ca55dcbe312ed4513634c41116ea7c6e53575af
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_107-juan-start, juan_n: '107'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:d20951122ebaaa513d07ea974e7ee4dbc1b02487ffd7a33474aa0c9711040fe7

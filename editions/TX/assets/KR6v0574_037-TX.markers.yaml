@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/37
+seq: 37
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_037-0038a10, ed: TX, 'n': 0038a10}
+  - {type: 其他, offset: 0, content: 答淨心長老冕甫居士融高法師書, id: KR6v0574_TX_037-mulu-1, level: '2'}
+  - {type: line-break, offset: 14, content: '', id: KR6v0574_TX_037-0038a11, ed: TX, 'n': 0038a11}
+  - {type: xml-element, offset: 14, content: '', id: pTX26p0038a1101, name: p, role: open, attrs: {'xml:id': pTX26p0038a1101, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 17, content: ：, id: KR6v0574_TX_037-bkkpn1}
+  - {type: punctuation, offset: 21, content: ，, id: KR6v0574_TX_037-bkkpn2}
+  - {type: punctuation, offset: 29, content: ，, id: KR6v0574_TX_037-bkkpn3}
+  - {type: punctuation, offset: 33, content: ，, id: KR6v0574_TX_037-bkkpn4}
+  - {type: punctuation, offset: 40, content: ！, id: KR6v0574_TX_037-bkkpn5}
+  - {type: page-break, offset: 44, content: '', id: KR6v0574_TX_037-0039a, ed: TX, 'n': 0039a, source_xml_id: TX26.0017.0039a}
+  - {type: line-break, offset: 44, content: '', id: KR6v0574_TX_037-0039a01, ed: TX, 'n': 0039a01}
+  - {type: punctuation, offset: 46, content: ，, id: KR6v0574_TX_037-bkkpn6}
+  - {type: punctuation, offset: 50, content: ，, id: KR6v0574_TX_037-bkkpn7}
+  - {type: punctuation, offset: 59, content: ，, id: KR6v0574_TX_037-bkkpn8}
+  - {type: punctuation, offset: 68, content: ，, id: KR6v0574_TX_037-bkkpn9}
+  - {type: punctuation, offset: 74, content: ，, id: KR6v0574_TX_037-bkkpn10}
+  - {type: line-break, offset: 76, content: '', id: KR6v0574_TX_037-0039a02, ed: TX, 'n': 0039a02}
+  - {type: punctuation, offset: 80, content: 。, id: KR6v0574_TX_037-bkkpn11}
+  - {type: punctuation, offset: 87, content: ，, id: KR6v0574_TX_037-bkkpn12}
+  - {type: punctuation, offset: 96, content: 。, id: KR6v0574_TX_037-bkkpn13}
+  - {type: punctuation, offset: 108, content: ，, id: KR6v0574_TX_037-bkkpn14}
+  - {type: line-break, offset: 109, content: '', id: KR6v0574_TX_037-0039a03, ed: TX, 'n': 0039a03}
+  - {type: punctuation, offset: 118, content: ，, id: KR6v0574_TX_037-bkkpn15}
+  - {type: punctuation, offset: 126, content: ，, id: KR6v0574_TX_037-bkkpn16}
+  - {type: punctuation, offset: 135, content: ，, id: KR6v0574_TX_037-bkkpn17}
+  - {type: punctuation, offset: 140, content: 。, id: KR6v0574_TX_037-bkkpn18}
+  - {type: line-break, offset: 142, content: '', id: KR6v0574_TX_037-0039a04, ed: TX, 'n': 0039a04}
+  - {type: punctuation, offset: 152, content: ，, id: KR6v0574_TX_037-bkkpn19}
+  - {type: punctuation, offset: 158, content: ，, id: KR6v0574_TX_037-bkkpn20}
+  - {type: punctuation, offset: 163, content: ，, id: KR6v0574_TX_037-bkkpn21}
+  - {type: punctuation, offset: 167, content: ，, id: KR6v0574_TX_037-bkkpn22}
+  - {type: punctuation, offset: 172, content: ，, id: KR6v0574_TX_037-bkkpn23}
+  - {type: line-break, offset: 174, content: '', id: KR6v0574_TX_037-0039a05, ed: TX, 'n': 0039a05}
+  - {type: punctuation, offset: 178, content: 。, id: KR6v0574_TX_037-bkkpn24}
+  - {type: punctuation, offset: 184, content: ，, id: KR6v0574_TX_037-bkkpn25}
+  - {type: punctuation, offset: 190, content: ，, id: KR6v0574_TX_037-bkkpn26}
+  - {type: punctuation, offset: 201, content: 。, id: KR6v0574_TX_037-bkkpn27}
+  - {type: punctuation, offset: 203, content: ，, id: KR6v0574_TX_037-bkkpn28}
+  - {type: line-break, offset: 206, content: '', id: KR6v0574_TX_037-0039a06, ed: TX, 'n': 0039a06}
+  - {type: punctuation, offset: 207, content: ！, id: KR6v0574_TX_037-bkkpn29}
+  - {type: xml-element, offset: 207, content: '', id: pTX26p0038a1101_end, name: p, role: close, attrs: {'xml:id': pTX26p0038a1101, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 207, content: '', id: KR6v0574_TX_037-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 207, content: （, id: KR6v0574_TX_037-bkkpn30}
+  - {type: punctuation, offset: 214, content: ）, id: KR6v0574_TX_037-bkkpn31}
+  - {type: xml-element, offset: 214, content: '', id: KR6v0574_TX_037-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:69930814ec826cfd12d9526b010ddae660c2ffe3daeb98891d796fe8b72385b9

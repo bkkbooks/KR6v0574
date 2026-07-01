@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/112
+seq: 112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致李石曾先生書石曾先生道鑒欽景高德每悵緣慳邂逅雲林曷勝欣幸昨聞唯一多一之論今思實唯一及實多一均有違事物真相而假唯一假多一則皆可順真相而說何者實唯一近於執常一用之我執實多一近於執有各體之法執捨唯一而取多一近於小乘之破我執而存法執故多一雖較唯一為勝亦宜捨之如觀一事由多方面為關係而集成故無實唯一同時復觀彼多方面關係亦一一依此一事為關係而發現故無實多一反之則一事集成由於一一故實無此一事而唯彼一一可假說有多一而無唯一又一一發現依於一事故實無彼一一而唯此一事可假說有唯一而無多一無實曰空假說曰假觀事物真相之即空即假曰中先生雅量沖懷應不以直陳管見為忤幸評正之專此即頌靜安太虛謹白見海刊九卷一期
+  hash: sha256:4724fd56740addc2ba198203424a16233b111cf9d2288d5f987d412d338e3c32
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_112-juan-start, juan_n: '112'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:2b0c6caf17de3502cb15cdbf58a975def2ccbd3425fccb5c70608ffcce42582e

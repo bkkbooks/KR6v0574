@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/167
+seq: 167
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_167-0301a04, ed: TX, 'n': 0301a04}
+  - {type: 其他, offset: 0, content: 電賀歐洲佛教大會, id: KR6v0574_TX_167-mulu-1, level: '2'}
+  - {type: line-break, offset: 8, content: '', id: KR6v0574_TX_167-0301a05, ed: TX, 'n': 0301a05}
+  - {type: xml-element, offset: 8, content: '', id: pTX26p0301a0501, name: p, role: open, attrs: {'xml:id': pTX26p0301a0501, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 20, content: ：, id: KR6v0574_TX_167-bkkpn1}
+  - {type: punctuation, offset: 31, content: ！, id: KR6v0574_TX_167-bkkpn2}
+  - {type: line-break, offset: 41, content: '', id: KR6v0574_TX_167-0301a06, ed: TX, 'n': 0301a06}
+  - {type: punctuation, offset: 44, content: 。, id: KR6v0574_TX_167-bkkpn3}
+  - {type: xml-element, offset: 44, content: '', id: pTX26p0301a0501_end, name: p, role: close, attrs: {'xml:id': pTX26p0301a0501, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 44, content: '', id: KR6v0574_TX_167-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 44, content: （, id: KR6v0574_TX_167-bkkpn4}
+  - {type: punctuation, offset: 51, content: ）, id: KR6v0574_TX_167-bkkpn5}
+  - {type: xml-element, offset: 51, content: '', id: KR6v0574_TX_167-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:2d322b5c85daed36ed469fb2912e51235ed064e306a89d139af348f41bad0edc

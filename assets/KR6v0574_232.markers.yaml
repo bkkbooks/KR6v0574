@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/232
+seq: 232
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答葦舫問, id: KR6v0574_TX_232-mulu-1, level: '2'}
+  back: []
+hash: sha256:f2e560f7248ad7e236e07e1cb072507a07accc92cc70ab3a72c64ce9fa7f0883

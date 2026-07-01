@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/95
+seq: 95
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致寶慶縣知事函縣長先生均鑒敬啟者頃接點石禪院來函稱因修築牆腳致與楊姓興訟其中情節敝院亦未能遙測但素聞點石禪院道風最高自尊美公開闢叢林以來常有修行衲子於中行持佛法至今未衰雖或因眾生難調難伏偶生膠葛而貴縣長為一方之保障乃佛法之外護尚望特別擁護隨緣開解令道俗兩得其宜則佛法甚幸世法甚幸南望昭陵企懷靡盡惟大居士常護念之肅此敬請勛安並希賜覆武昌佛學院院長釋太虛見海刊五卷七期
+  hash: sha256:443d4a797c7ce613ba748611224adea03a72b17eebdf4b192f2f11bcef82e3af
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_095-juan-start, juan_n: 095}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:635fccd9b0861661a218d71ac712105dbe4c0e8250c5ef91f263ab095feb853a

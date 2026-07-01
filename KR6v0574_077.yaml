@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/77
+seq: 77
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復王實居士書展讀惠書洵卓然不為環境籠罩能自抽其智種靈苗於火宅之中者惟似甚戚戚於家獄之不能超出則當觀家性空了無逼迫自可安忍一切艱辛苦難而於其中成就波羅密行焉若家事能捨離者開春元初即來院修持學習二三載亦未始非成滿二利之因但隨緣勿加勉強為要太虛白見海刊三卷十二期
+  hash: sha256:e1aff6d106198a7d7b4de290f2c24931c44d5f5a674e530e2eb3d48408c970f7
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_077-juan-start, juan_n: '077'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:a79a2c4a4d129db5fa57b4a4c2379d0b08086d96e2078c4aee72ce5989d22645

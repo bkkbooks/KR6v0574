@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/196
+seq: 196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答周頌堯問五則答一此係夙生善根及一時精誠之感應所現但一心念佛不必記挂計較答二此由夙生惡業招此微苦償必不更招後報答三依佛經理信解修行不須求籤問卜答四於一切時一切處心中默念佛皆無妨礙答五此世界是一大火宅縱離得家亦未能出但能念佛誦經臨終往生西方極樂方是脫離火宅時也故但須在家中安心忍耐如是行去不要退轉便好切忌別打妄想見海刊四卷九期
+  hash: sha256:5f1c160a9323efee346b3e22a0d73694e747aa746211eea4cfd2b9616864628e
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_196-juan-start, juan_n: '196'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:80d6c0a08a8a9a1ce3b5969c7fc4b63409aa01ce6303b529cfbecee55c5cffa4

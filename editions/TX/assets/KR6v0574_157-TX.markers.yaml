@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/157
+seq: 157
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_157-0296a07, ed: TX, 'n': 0296a07}
+  - {type: 其他, offset: 0, content: 致蘇慧純居士書, id: KR6v0574_TX_157-mulu-1, level: '2'}
+  - {type: line-break, offset: 7, content: '', id: KR6v0574_TX_157-0296a08, ed: TX, 'n': 0296a08}
+  - {type: xml-element, offset: 7, content: '', id: pTX26p0296a0801, name: p, role: open, attrs: {'xml:id': pTX26p0296a0801, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 11, content: ：, id: KR6v0574_TX_157-bkkpn1}
+  - {type: punctuation, offset: 26, content: ，, id: KR6v0574_TX_157-bkkpn2}
+  - {type: punctuation, offset: 32, content: ，, id: KR6v0574_TX_157-bkkpn3}
+  - {type: punctuation, offset: 38, content: ，, id: KR6v0574_TX_157-bkkpn4}
+  - {type: line-break, offset: 38, content: '', id: KR6v0574_TX_157-0296a09, ed: TX, 'n': 0296a09}
+  - {type: punctuation, offset: 42, content: ！, id: KR6v0574_TX_157-bkkpn5}
+  - {type: punctuation, offset: 44, content: 。, id: KR6v0574_TX_157-bkkpn6}
+  - {type: punctuation, offset: 45, content: 、, id: KR6v0574_TX_157-bkkpn7}
+  - {type: punctuation, offset: 46, content: 。, id: KR6v0574_TX_157-bkkpn8}
+  - {type: xml-element, offset: 46, content: '', id: pTX26p0296a0801_end, name: p, role: close, attrs: {'xml:id': pTX26p0296a0801, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 46, content: '', id: KR6v0574_TX_157-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 46, content: （, id: KR6v0574_TX_157-bkkpn9}
+  - {type: punctuation, offset: 54, content: ）, id: KR6v0574_TX_157-bkkpn10}
+  - {type: xml-element, offset: 54, content: '', id: KR6v0574_TX_157-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:e7f185c14e453593bddbc75eec327735403f657a0309052d094a264df5af0cec

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/82
+seq: 82
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆淨平居士書淨平善男子汝今如是吾亦歡喜但此中無悟亦無悟者弗存悟見因見生慢今更字汝護常當善為嚴淨護持平常之身口意行也壬戌四月太虛字見海刊三卷五期
+  hash: sha256:7140cfb8517423f78286a641523f07d7a4f6d2cd7ecfd17fe50bc84fbc99f0eb
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_082-juan-start, juan_n: 082}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:aecf95272db801b26b00a82afebc445e9270113f9eca0537916d93db68d5874f

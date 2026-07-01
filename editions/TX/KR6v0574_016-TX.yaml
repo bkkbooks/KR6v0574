@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆巴黎佛學會書德貞女士慧鑒欣奉巴黎佛學會報告書一件並惠詢在巴黎出版之拙著佛學一書所譯法文晦澀錯謬可否由洪先生譯成英文再轉譯法文但書店已出版此書余尚未知彼當時有此書勿再譯他國文之約惟請囑此出版之書寄數份來當另翻譯以副雅望耳專復並祝佛學會興盛太虛見海刊十三卷九期
+  hash: sha256:c8ec5f316e6ed5f7823c505f4417e72f9516c85d6e4c3d265bb9b334ac543452
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_016-juan-start, juan_n: '016'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:aeb1c0d116978b3f0ab9bebe86d2450b7366449688295e163cc9af2e78b06520

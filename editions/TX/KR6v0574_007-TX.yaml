@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復國民大學函國民大學教務處台鑒承函商於貴大學增設佛學史或印度哲學每週二小時鄙意可先授佛學史而教本可採用武昌佛學院新編之佛教各宗學源流鄙人頃難來滬暫託門下嘿庵師及王君錫光代授希為面洽此頌教安釋太虛和南見海刊六卷九期
+  hash: sha256:4d89a61a93c4c51233bc48a2c1428162ecc24b5e122a3cd01350e2f89b7e2751
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_007-juan-start, juan_n: '007'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:993897d483f44270d4c1abcdcc26a9235ab29173809d679dd8e6fde76b8c4b5c

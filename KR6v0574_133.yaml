@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/133
+seq: 133
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆羅普悟居士書普悟居士惠鑒佛學院轉來雲翰藉知比來解行精進之實況良用欣佩更得楊左葉諸君相為切磋彌彰法樂虛以前日來牯擬在清涼中度過殘暑當再經漢入川也垂問各條茲依次略言一可從高等級第一年研習起二厚嚴即密嚴義林章有補缺及抉擇記并檢考續藏中有關此類之著述又基纂論記即略纂倫記更有瑜伽釋及序或散見解說之類唯識義章釋即釋唯識章者不久將有印出覺夢鈔以及大乘入道次第章能顯中邊慧日論之類三可獨自研習遇有疑滯隨時討究又成唯識論標目吾昔閲過當交會覺師轉致今悉尚未收到然不知其存何處也鄂院已收回在進行中矣專復即訊時祉太虛啓七十九見海刊十三卷九期
+  hash: sha256:0737dba60c5e8c23cb6cb120cab4ed50bda0e9908d3086cc7bbf99564bd1eef6
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_133-juan-start, juan_n: '133'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:add9b29c75dea3dda2cd24b351485d1bf014aa8ee04382033952f5199040411e

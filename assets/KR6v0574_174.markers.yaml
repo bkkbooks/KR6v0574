@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/174
+seq: 174
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆彭宣傳部長電, id: KR6v0574_TX_174-mulu-1, level: '2'}
+  back: []
+hash: sha256:76c20fd756d6020558ba38da342801279ebdba873e8fe8337c7b5765412e122a

@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/175
+seq: 175
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 賀上海吳市長電, id: KR6v0574_TX_175-mulu-1, level: '2'}
+  back: []
+hash: sha256:621ccf6ee2d15ac0f1a676668e5747d55829fb575f9539dcdd5621415d7ceeed

@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/132
+seq: 132
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆余乃仁居士電, id: KR6v0574_TX_132-mulu-1, level: '2'}
+  back: []
+hash: sha256:fa35faffa2d6691b63eac031fe38f5b2b7de7649248584186e79e711558776d4

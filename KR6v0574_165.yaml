@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/165
+seq: 165
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆濟南淨居寺電濟南淨居寺靜齊大德轉四衆同仁均鑒支電奉悉實深同情空飛乏術電掬精誠并急刊布來電呼籲全國名剎高德同誦仁護以禱平安矣太虛寅齊見茲來往電文者全國名剎請誦仁王護國經四衆同仁亦各隨誦經咒以共回向濟南安寧太虛附請見覺群二卷卅五期
+  hash: sha256:ecd7b86978cc666af42162432e4ba944b9c4c3cc5852dfbbde36c999abbdb735
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_165-juan-start, juan_n: '165'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:18162c5d673f280d260c76606576f7b07f63f1f282997846898dbcbad0d484ed

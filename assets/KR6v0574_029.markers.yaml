@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/29
+seq: 29
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答某師書, id: KR6v0574_TX_029-mulu-1, level: '2'}
+  back: []
+hash: sha256:96852bd66927c99436c6add72f27ffc539c3c9c0b08e5e797ba44aa3779090ac

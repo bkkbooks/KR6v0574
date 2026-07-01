@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/18
+seq: 18
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 致漢院員生書, id: KR6v0574_TX_018-mulu-1, level: '2'}
+  back: []
+hash: sha256:b2ffab8dbb93d93711519d9c951d118d96cf4aa91422d5e95e0b26a23b4e8f02

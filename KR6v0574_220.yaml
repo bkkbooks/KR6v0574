@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/220
+seq: 220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答向鑑瑩問二則問一修淨土一句彌陀誠可了可否兼作利生事業問二小大相性合而為整個之佛法可以不分否答一淨土法門為難信易行之法只要信願真切不管行多行少皆可往生發心弘法利生濟世度人願力更為殊勝上品上生可操左券一句彌陀可了係對某一種人方便接引之談非必須捨萬善而不為也答二佛法界中本無小大性相顯密之分就根差而教別有小大性相顯密等有二用處一應機說教無棄此就彼之虞二修證程序收登高自卑之效見海刊十三卷十一期
+  hash: sha256:d60b764340bd46e82c0dba8797f7e8d5d50a01a5fa5b5ecd40e6d64dfde13099
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_220-juan-start, juan_n: '220'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:f2cd7000005180572e1e506209150632b1ae46fb8cde292aa15c91864d6ff38c

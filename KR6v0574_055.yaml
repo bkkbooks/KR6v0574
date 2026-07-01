@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/55
+seq: 55
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復正果書正果主任函悉畢業生分發及新招生情形頗慰但格桑與東本兩公均逝世甚以悼惜望為致函其治喪處致唁為幸太虛二十三自上海發正果藏稿
+  hash: sha256:e4b835dfd2a5d8965c2ab50ecf4f8d65bf54a6577c839166f2c90d1458954ea6
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_055-juan-start, juan_n: '055'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:3a22b60e0124106875de70232fa1a8f3b12fec44eae206a526e21740dd4f3e6e

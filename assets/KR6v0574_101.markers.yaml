@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/101
+seq: 101
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復徐兆熊先生書, id: KR6v0574_TX_101-mulu-1, level: '2'}
+  back: []
+hash: sha256:fabd20244422424e2da33522eff73139b910f7e67f173fefb15c85a361cb3612

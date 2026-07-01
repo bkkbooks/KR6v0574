@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/163
+seq: 163
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_163-0299a03, ed: TX, 'n': 0299a03}
+  - {type: 其他, offset: 0, content: 為蔣委員祈禱安全通電, id: KR6v0574_TX_163-mulu-1, level: '2'}
+  - {type: line-break, offset: 10, content: '', id: KR6v0574_TX_163-0299a04, ed: TX, 'n': 0299a04}
+  - {type: xml-element, offset: 10, content: '', id: pTX26p0299a0401, name: p, role: open, attrs: {'xml:id': pTX26p0299a0401, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 20, content: ：, id: KR6v0574_TX_163-bkkpn1}
+  - {type: punctuation, offset: 25, content: ，, id: KR6v0574_TX_163-bkkpn2}
+  - {type: punctuation, offset: 32, content: ，, id: KR6v0574_TX_163-bkkpn3}
+  - {type: punctuation, offset: 36, content: ；, id: KR6v0574_TX_163-bkkpn4}
+  - {type: line-break, offset: 41, content: '', id: KR6v0574_TX_163-0299a05, ed: TX, 'n': 0299a05}
+  - {type: punctuation, offset: 41, content: ，, id: KR6v0574_TX_163-bkkpn5}
+  - {type: punctuation, offset: 53, content: ，, id: KR6v0574_TX_163-bkkpn6}
+  - {type: punctuation, offset: 61, content: ，, id: KR6v0574_TX_163-bkkpn7}
+  - {type: punctuation, offset: 69, content: ！, id: KR6v0574_TX_163-bkkpn8}
+  - {type: xml-element, offset: 69, content: '', id: pTX26p0299a0401_end, name: p, role: close, attrs: {'xml:id': pTX26p0299a0401, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 69, content: '', id: KR6v0574_TX_163-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 69, content: （, id: KR6v0574_TX_163-bkkpn9}
+  - {type: punctuation, offset: 72, content: 、, id: KR6v0574_TX_163-bkkpn10}
+  - {type: line-break, offset: 72, content: '', id: KR6v0574_TX_163-0299a06, ed: TX, 'n': 0299a06}
+  - {type: punctuation, offset: 74, content: 、, id: KR6v0574_TX_163-bkkpn11}
+  - {type: punctuation, offset: 80, content: ）, id: KR6v0574_TX_163-bkkpn12}
+  - {type: xml-element, offset: 80, content: '', id: KR6v0574_TX_163-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:150cddc44c827d1f2799996433c9dde1d49c33a1db2c16a63a8adf14b778d509

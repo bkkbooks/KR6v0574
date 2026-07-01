@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/173
+seq: 173
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賀俞交通部長電南京交通部俞部長勛鑒復員伊始邸報傳來先生榮長交通得人有慶將見羊腸西轉能回九折之溪牛尾東來定鑒五丁之路舟車所至聲氣咸通化荊棘為康衢涉巨川有攸濟祥和在望毋任賀忱太虛叩徑見海刊二十七卷八期
+  hash: sha256:c89e33720df21266a7eb5c8ad0ead40973b829f2a499f8baf98e93061ee72eee
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_173-juan-start, juan_n: '173'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:e9c693cf0c8c5429936af63de7086b9621915cec6d95bbf238ce8d3fd0149596

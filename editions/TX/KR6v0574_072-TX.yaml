@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/72
+seq: 72
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答李近聃書過蒙稱崇非能克受而所賜教者誠是稍俟當應來囑而答淨悟女士之言不唯材料問題經濟問題并有辦理問題公其有以賜教乎太虛復見海刊一卷八期
+  hash: sha256:8147381606355641c17683e3b2fac0595da27ce7ff849507aebe04d3695f5323
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_072-juan-start, juan_n: '072'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:a0a62394b6a649f768a02cbd40ba5de34d49d71208e0d18be52a8ff82656db9c

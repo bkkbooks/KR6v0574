@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/20
+seq: 20
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_020-0019a03, ed: TX, 'n': 0019a03}
+  - {type: 其他, offset: 0, content: 復安慶佛教居士林函, id: KR6v0574_TX_020-mulu-1, level: '2'}
+  - {type: line-break, offset: 9, content: '', id: KR6v0574_TX_020-0019a04, ed: TX, 'n': 0019a04}
+  - {type: xml-element, offset: 9, content: '', id: pTX26p0019a0401, name: p, role: open, attrs: {'xml:id': pTX26p0019a0401, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 24, content: ：, id: KR6v0574_TX_020-bkkpn1}
+  - {type: substitution, offset: 27, original: 週, replacement: 周, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0563}}
+  - {type: punctuation, offset: 31, content: ，, id: KR6v0574_TX_020-bkkpn2}
+  - {type: punctuation, offset: 38, content: ，, id: KR6v0574_TX_020-bkkpn3}
+  - {type: line-break, offset: 41, content: '', id: KR6v0574_TX_020-0019a05, ed: TX, 'n': 0019a05}
+  - {type: punctuation, offset: 46, content: ，, id: KR6v0574_TX_020-bkkpn4}
+  - {type: punctuation, offset: 50, content: ！, id: KR6v0574_TX_020-bkkpn5}
+  - {type: punctuation, offset: 60, content: 。, id: KR6v0574_TX_020-bkkpn6}
+  - {type: punctuation, offset: 66, content: ！, id: KR6v0574_TX_020-bkkpn7}
+  - {type: punctuation, offset: 68, content: 。, id: KR6v0574_TX_020-bkkpn8}
+  - {type: xml-element, offset: 68, content: '', id: pTX26p0019a0401_end, name: p, role: close, attrs: {'xml:id': pTX26p0019a0401, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 68, content: '', id: KR6v0574_TX_020-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 68, content: （, id: KR6v0574_TX_020-bkkpn9}
+  - {type: line-break, offset: 72, content: '', id: KR6v0574_TX_020-0019a06, ed: TX, 'n': 0019a06}
+  - {type: punctuation, offset: 77, content: ）, id: KR6v0574_TX_020-bkkpn10}
+  - {type: xml-element, offset: 77, content: '', id: KR6v0574_TX_020-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:0e37602b93bc136b2acd90e9a4227788791b1bb51fe31563f1a84bc3046ab02d

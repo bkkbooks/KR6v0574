@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/157
+seq: 157
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 致蘇慧純居士書, id: KR6v0574_TX_157-mulu-1, level: '2'}
+  back: []
+hash: sha256:5ef7e03b783c14dc97cbf7cd383a5a97686901636e51985518935ccb58840f10

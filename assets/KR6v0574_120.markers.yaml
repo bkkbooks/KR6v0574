@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/120
+seq: 120
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆萬梁居士書, id: KR6v0574_TX_120-mulu-1, level: '2'}
+  back: []
+hash: sha256:2e235ef6690f1e20a67fefb9f35b0f491e4ec1bb9fc7920865995fe11ee6e811

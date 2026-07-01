@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/105
+seq: 105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆楊毓芬居士書蝶甫居士大鑒惠函備悉居士蒿目時艱努力佛化情殷悲憫欽仰欽仰至囑出版佛教畫報誠為美舉已交幹事部策劃進行擬由本社北京辦事處出版希先與胡子笏社長磋商組織各項一編輯人員二刊內組織三借地址四經費五銷路六報之名稱以上商妥示知以便備文聘請各職員並辦立案事特復順祝法樂太虛見海刊七卷九期
+  hash: sha256:c9d856b6bcc4cba2e3d327f5cb53c00c44f0f69736cf2c85d3c9fb0fff71f417
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_105-juan-start, juan_n: '105'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:b97c5a9984f61d3ab904ec3c105903123a13acfb5826279a80e04be0b0b69a8a

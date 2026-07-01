@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/172
+seq: 172
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賀王經濟部長電南京經濟部王部長雲五先生勛鑒國府還都策賢柄政先生學為士則清畏人知以史雲獨行之才作子產眾人之母計劃經濟期於正德厚生開發資源將以安民救國忝叨文誼共被榮施肅布賀忱維希霽察太虛叩徑見海刊二十七卷八期
+  hash: sha256:2230f117a1d4d416c0f308e97516ea5f5021ff044456802d7401ea8f005fa7db
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_172-juan-start, juan_n: '172'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:fc94c21f6cd68a61c5207e754c762255b1437036895022a18de5f4c2e42a396f

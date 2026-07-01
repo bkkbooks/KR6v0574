@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/51
+seq: 51
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與竺摩書二通一竺摩慧鑒來信并各詩均閱悉殊為喜慰此時出版刊物港澳為易但郵遞甚難故潮音不擬遷移只得在後方勉延殘喘余暫住縉雲藉應時變弘師六秩徵文啟事已付登勿念如晤劍老便為致意華院希力促芝峰代主汝亦參加自由史觀甚簡寶乘法師如能闡發其義以譯之甚所盼望昔亢虎欲譯於美而未果今寶乘欲譯於英則甚善望促成之太虛廿九十十八二竺摩慧鑒來書宛敘覺音及詩訊誠慰覺音經汝編後較有活潑生氣盼努力使成青年刊物為宣傳華南佛教之生力軍惟迄今尚祇見到十八期耳弘師傳聞冀不實余頃病臂麻返縉雲爾應少講寫而多習禪或習拳詩勿時作夏聲先生為吾卅年前故友時在念中順為致候諸學生願行堅甚好能服訓則非闡提而為善信可為慰之太虛卅五二原稿竺摩保存
+  hash: sha256:a71d82edab9311ecc63384e496f217c426a99bd702afc29efa90a824b696e80e
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_051-juan-start, juan_n: '051'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:78913b6a421a15137543a2b701714d1def0b783be7c4c4cc921efe23973d828e

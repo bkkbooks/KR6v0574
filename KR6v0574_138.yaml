@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復戴季陶院長書季公賜鑒昨承蒞教後晚間又荷惠書感佩奚似奉僧居士昨已赴普陀然十日外當再至杭當以尊意轉達之也宋藏會一函昨遺案頭今再附上虛意除法會請購十藏分贈康藏青蒙各寺外再祈商請林主席褚祕書長鼎力提倡由政府購請數十藏分贈全國各大學各大圖書館以及各國最大文化機關各一藏既以流通佛典亦以宣揚中國文化並使宋藏會藉以圓滿其功德惟垂注及之又阿育王寺為釋尊舍利道場古歷四月二十四日啓講藥師經如得駕臨護持則益令四衆歡騰矣專復順頌晨祉太虛謹啓四月四日見正信四卷二期
+  hash: sha256:18251d284f8583b317f45d4b22085d575d6d46b8d42b2a221f9398ec58d350d7
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_138-juan-start, juan_n: '138'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:9d7f28e7bf0da944f6012f9b9207706838831c665eed94a16f73bc7d343ac1cf

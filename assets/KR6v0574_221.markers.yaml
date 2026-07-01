@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/221
+seq: 221
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答日僧荻原虛問（四則）, id: KR6v0574_TX_221-mulu-1, level: '2'}
+  back: []
+hash: sha256:cf65a13c313c9dfabe5dd1251b30e404d9987d2feff8e573a0a7c2551a716878

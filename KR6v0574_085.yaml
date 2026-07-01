@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/85
+seq: 85
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆趙慧綸居士書慧綸賢士如晤疊接來書曷勝欣慰惟以經濟困乏恐不獲卒業亦殊深為躊躇但祝君離諸障礙進步自由耳至陷第二日人之譏此不足慮何者君能以佛法真理報酬教授者令同覺悟即真能報恩者故函詢各節佛法中之人天乘可云初乘其各個的善惡與合衆的善惡即是別業共業譯文與來書已略更正載海潮音他日當可閲及之反對者所云學佛者多愁病此全是虛構之詞云對女子不平等此亦小乘教法如是耳專復叩訊學安太虛合十見海刊四卷三期
+  hash: sha256:84acfc386d440c5411096d82a87ae626114bac339b0c54bcc718682d86265098
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_085-juan-start, juan_n: 085}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:5f1539bd74c6e0bcbc560e4a68e81bfdb963c0b25fedce913a57d49e5fa9bf4c

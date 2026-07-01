@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復洪樵舲居士書樵舲開士慧照獲親手翰如面故人過蒙獎飾無任慚悚開士以文章氣節迴向禪那般若茲更進崇戒行曷勝欽佩承詢楞嚴獨選耳根其勝安在衲於攝論嘗專章論之今再略言一觀音於此界緣勝故二音聞於此方教勝故三反聞於禪觀境勝故習定惟聲最難離脫故聲為禪定之刺也四多聞於阿難機勝故若夫法性平等實無優劣惟垂審擇焉專復即訊起居吉祥衲太虛和南見海刊三卷十二期
+  hash: sha256:624c84f35e253d47396cc012549a8690beb004aa61597652205a24f64490597d
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_079-juan-start, juan_n: 079}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:6ee913711c7b877ee083dcbdaa0b2eb0e1d46181037f15292a8d9b719f720344

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/233
+seq: 233
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答姚際虞問二則問一臨終時如何使一念不亂生西答一一平時念佛專一或能入定二信心堅固願力真切問二每日念佛數時總覺散亂不定如何能不散亂臨終決定往西答二一每日念佛以有恆為要多看淨土經典更能七日為期專心致念久之定能達到一心不亂二多做利人事業維護三寶皆回向往生程心勉記見海刊二十六卷六七期合刊
+  hash: sha256:1ee799040dd963a06e122daadd2480f5ccb70f39b7c61a33374c3cb6ab52b508
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_233-juan-start, juan_n: '233'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:a4bebda8547fc0c8526bd8dfe36a9720ad3a8cecf1c9b3e818e266532d543e21

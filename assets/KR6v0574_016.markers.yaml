@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/16
+seq: 16
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆巴黎佛學會書, id: KR6v0574_TX_016-mulu-1, level: '2'}
+  back: []
+hash: sha256:ce0edc9b4e54b094ac1bdd023fa401f91057083be5357233cacdff5baf454780

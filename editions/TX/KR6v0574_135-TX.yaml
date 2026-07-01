@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/135
+seq: 135
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復陸心梵居士書心梵居士鑒由雪竇轉來惠書藉悉一是一應望僧尼日善而不必望其日增以斯濁土中增則勢難善故二僧尼負住持佛法之責佛慈悲廣大普度眾生之旨不在皆令出家在令信佛法僧持五戒行十善以及發菩提心而修六度四攝三限制具戒而不限制出家實一矛盾許多出家而又不能具戒者豈不徒為佛門贅累四補習學校為救濟已出家而失學者而設正本清源自當從出家限制雖有學識而更須正信切願誠意則為確論太虛復見海刊十四卷十期
+  hash: sha256:6de2962cb02111d13a19f953d08746005526a725b465bea12a86ba3d502f7f6d
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_135-juan-start, juan_n: '135'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:9edf4ceee0b70c0365a45409f55cbe85d4f9baf98ae69f81726cceda22060a1a

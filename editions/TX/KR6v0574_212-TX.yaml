@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/212
+seq: 212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答張世俊問五則一善導和尚依此土往生之人言故曰皆指凡夫往生余指往生後所登階位故曰極喜地等兩不相違二令執科學者生信須有證神通者公開試演余亦嘗論及但一未知確有神通者二中國易滋鬼神迷信故不宜有其人往西洋公演之最善三令人在可能範圍內儘量免除殺業一語得之矣四本論餘論未著已併入現實主義中矣五大勇師已辭世其入藏求學者情形可見於近期海潮音見海刊十一卷一期
+  hash: sha256:fd0991ea44d9c4a3a0d4e7176de696d818111e465954d8b8c70fe291dd4844c6
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_212-juan-start, juan_n: '212'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:e9a974d2fabb4e39482ef91ab330f867bf72b6235e776fe918229f534c79432c

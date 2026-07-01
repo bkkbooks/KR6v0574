@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/221
+seq: 221
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答日僧荻原虛問四則問一中國佛教現狀如何問二儒佛關係如何問三廬山高僧何在問四大林何宗及師信何宗答一新陳代謝復興中答二明月清風過太空答三雲自去來山不動答四又看天地闢鴻濛見正信四卷十四期
+  hash: sha256:e5bf0deeb3c1b71a23484d7b9fd8fcd1ee59193f7c2ee6e5579d9582c7dbfcfa
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_221-juan-start, juan_n: '221'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:07ec755ca042cf7c0d76d3afcf7b2b2ec67c720624d7c301c0465dd9717737e6

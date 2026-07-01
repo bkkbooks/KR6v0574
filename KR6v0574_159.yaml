@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/159
+seq: 159
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆四川當局歡迎電成都統率辦事處劉鄧田處長荃鑒錦水莪峰久縈寤寐重以電招彌切遐想溯江西上當待春深先此馳報無任欽遲太虛見海刊八卷一期
+  hash: sha256:c16ee0f5cf63d1ba0ba2939c54fa93ff14666f9def46b0a3be9a96c1e1cbc351
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_159-juan-start, juan_n: '159'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:cd3cddd82e56d7183ab7590aeacb28a593165c6ed75c8dc24d3e9db2436397be

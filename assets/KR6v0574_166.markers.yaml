@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/166
+seq: 166
+markers:
+  front: []
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR6v0574_TX_166-0301a, ed: TX, 'n': 0301a, source_xml_id: TX26.0017.0301a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_166-0301a01, ed: TX, 'n': 0301a01}
+  - {type: 其他, offset: 0, content: 賀班禪額爾德尼就職電, id: KR6v0574_TX_166-mulu-1, level: '2'}
+  - {type: line-break, offset: 10, content: '', id: KR6v0574_TX_166-0301a02, ed: TX, 'n': 0301a02}
+  - {type: xml-element, offset: 10, content: '', id: pTX26p0301a0201, name: p, role: open, attrs: {'xml:id': pTX26p0301a0201, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 18, content: ：, id: KR6v0574_TX_166-bkkpn1}
+  - {type: punctuation, offset: 24, content: ，, id: KR6v0574_TX_166-bkkpn2}
+  - {type: punctuation, offset: 28, content: ，, id: KR6v0574_TX_166-bkkpn3}
+  - {type: punctuation, offset: 34, content: ，, id: KR6v0574_TX_166-bkkpn4}
+  - {type: punctuation, offset: 40, content: ，, id: KR6v0574_TX_166-bkkpn5}
+  - {type: line-break, offset: 40, content: '', id: KR6v0574_TX_166-0301a03, ed: TX, 'n': 0301a03}
+  - {type: punctuation, offset: 44, content: ，, id: KR6v0574_TX_166-bkkpn6}
+  - {type: punctuation, offset: 48, content: ！, id: KR6v0574_TX_166-bkkpn7}
+  - {type: punctuation, offset: 58, content: 。, id: KR6v0574_TX_166-bkkpn8}
+  - {type: xml-element, offset: 58, content: '', id: pTX26p0301a0201_end, name: p, role: close, attrs: {'xml:id': pTX26p0301a0201, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 58, content: '', id: KR6v0574_TX_166-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 58, content: （, id: KR6v0574_TX_166-bkkpn9}
+  - {type: substitution, offset: 63, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
+  - {type: punctuation, offset: 64, content: ）, id: KR6v0574_TX_166-bkkpn10}
+  - {type: xml-element, offset: 64, content: '', id: KR6v0574_TX_166-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:028b6f49ab30d0e3c32005faed1c80a94f74d7beaeffcf426263ee98bfb10bbe

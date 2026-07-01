@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/159
+seq: 159
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_159-0297a05, ed: TX, 'n': 0297a05}
+  - {type: 其他, offset: 0, content: 覆四川當局歡迎電, id: KR6v0574_TX_159-mulu-1, level: '2'}
+  - {type: line-break, offset: 8, content: '', id: KR6v0574_TX_159-0297a06, ed: TX, 'n': 0297a06}
+  - {type: xml-element, offset: 8, content: '', id: pTX26p0297a0601, name: p, role: open, attrs: {'xml:id': pTX26p0297a0601, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 22, content: ：, id: KR6v0574_TX_159-bkkpn1}
+  - {type: punctuation, offset: 26, content: ，, id: KR6v0574_TX_159-bkkpn2}
+  - {type: punctuation, offset: 30, content: ，, id: KR6v0574_TX_159-bkkpn3}
+  - {type: punctuation, offset: 34, content: ，, id: KR6v0574_TX_159-bkkpn4}
+  - {type: punctuation, offset: 38, content: 。, id: KR6v0574_TX_159-bkkpn5}
+  - {type: line-break, offset: 38, content: '', id: KR6v0574_TX_159-0297a07, ed: TX, 'n': 0297a07}
+  - {type: punctuation, offset: 42, content: ，, id: KR6v0574_TX_159-bkkpn6}
+  - {type: punctuation, offset: 46, content: ，, id: KR6v0574_TX_159-bkkpn7}
+  - {type: punctuation, offset: 50, content: ，, id: KR6v0574_TX_159-bkkpn8}
+  - {type: punctuation, offset: 54, content: ！, id: KR6v0574_TX_159-bkkpn9}
+  - {type: punctuation, offset: 56, content: 。, id: KR6v0574_TX_159-bkkpn10}
+  - {type: xml-element, offset: 56, content: '', id: pTX26p0297a0601_end, name: p, role: close, attrs: {'xml:id': pTX26p0297a0601, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 56, content: '', id: KR6v0574_TX_159-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 56, content: （, id: KR6v0574_TX_159-bkkpn11}
+  - {type: punctuation, offset: 63, content: ）, id: KR6v0574_TX_159-bkkpn12}
+  - {type: xml-element, offset: 63, content: '', id: KR6v0574_TX_159-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:0e09d48f279c4d43bb54638d812d50804266d0b36f91e01cf85921519eb1b872

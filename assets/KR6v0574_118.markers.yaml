@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/118
+seq: 118
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 致王森甫居士等書, id: KR6v0574_TX_118-mulu-1, level: '2'}
+  back: []
+hash: sha256:060fdb62c0b38fa0b8558f7ad624b7da79bc5ec71df099f61c93a919804b52d3

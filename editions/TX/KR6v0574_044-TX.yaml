@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致安東格西書安東格西大喇嘛座下前五年得法尊比丘來柬藉聞總持二藏博達五明既充解行尤富悲願曾允蒞內地弘化之情太虛因與四川檀越劉督辦等於世界佛學苑之系內就重慶縉雲山籌設漢藏教理院蓋專備座下之講學地也頃年法尊比丘從拉薩東返主持漢藏院培植稍有基礎奉迎法駕賁臨乃與同人公推法尊院長專迓惟惠然肯來為禱肅頌法祉世界佛學苑苑長太虛謹啟二十四年十一月十日見正信七卷七期
+  hash: sha256:fac919362384586841adbcacd8701be127691c64126eb7c56bef10cc6d86139d
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_044-juan-start, juan_n: '044'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:68dd1f517a974ad1fb0548bc9f8d91e6db19b32a509bc9c8e884025fa65ec67e

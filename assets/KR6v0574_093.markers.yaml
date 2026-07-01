@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/93
+seq: 93
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆袁聞純居士書, id: KR6v0574_TX_093-mulu-1, level: '2'}
+  back: []
+hash: sha256:1cb27d5306425543fc0724c78bd871fce93890047ba36939ee9aa25c546dca55

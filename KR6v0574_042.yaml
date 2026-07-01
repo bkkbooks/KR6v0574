@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致常恩書常恩主任鑒所擬辦事細則頗妥善未擬者皆擬完全并作一關於事務之詳細報告及計劃交院刊發表並須擬一今後院産發展計劃又關於事務處薪前函定三人五十元如另添人則減主任兼薪與之太虛啓九一三見漢藏教理院年刊
+  hash: sha256:1c3bd119e0b94a0c9affa6d9b86c401ee2fa579b9d29de3ca0683a16a6ea169e
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_042-juan-start, juan_n: '042'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:4e61fdda0331e85279a94cb964987a29db116f3b19d80448c3ee42608156c793

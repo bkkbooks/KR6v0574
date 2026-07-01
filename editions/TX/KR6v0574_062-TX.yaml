@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復淨行居士書兩展來書具窺信心淳厚道性貞純然云為眾生懺悔發願時心念不能專力蓋懺悔發願原須於念佛前與念佛後行之念佛時專心念佛全心念佛全佛是心圓滿清淨中不容他而懺悔發願之力自然融貫在中又云不能為眾生發願及回向一切智此自是博地凡夫情強理弱之通病不足為薄於大乘信根之徵可隨時觀一切苦惱眾生熏發大悲每日讀誦圓覺或維摩等大乘經典熏發大智依此不思議熏自生不思議化耳至云本了無生情偏妄計起信論說初心菩薩以後念覺前念覺即不覺故知情計在前了悟在後情計之生乃由無始妄習起念即覺覺即念滅久之妄計之情自然成無生之智所以云不怕念起祇恐覺遲也見海刊一卷一期
+  hash: sha256:24ac8098aa31ffa3a84dd1ed461f2786818e6fe1ef59d0d7d99b3d1c5598ac6c
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_062-juan-start, juan_n: '062'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:10fc1aed7b705ff802198e0612259281839316ab47985e425a16e3ef33350464

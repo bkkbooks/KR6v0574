@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/130
+seq: 130
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致王曉西居士函二通一曉西居士并轉漢藏教理院董事會公鑒今得滿智師來信可以回渝辦院事但詢件頗多鄙意可請為漢文佛學主講法師每月月薪三十元但由再請助講一人事務僧二三人即可先開辦漢文班如康格西已請來即漢藏同時開辦可者希即逕去院函上海佛學書局公請滿智法師可也專此即候公祉太虛謹啟見漢藏教理院開學紀念特刊二曉西居士鑒奉惠書悉北衡居士亦在漢候甫公惟願川事得一妥善之解決從此政理民康耳藏院得院董諸公維護尚能持續為感但院中仍慮經費不繼而院務無積極進取精神希相機充實經費并時一安慰院員之心也順頌時綏太虛啟十一月十六日自上海發漢院存稿
+  hash: sha256:6e9a56687a4686f34eb8408241031a471a1859b0b3b5256cbdfc57a6fcd8327a
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_130-juan-start, juan_n: '130'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:d11c5dc0e9362e802a8063a6d060671e0f32f48afe3f3f6c7e4aa11752a140bd

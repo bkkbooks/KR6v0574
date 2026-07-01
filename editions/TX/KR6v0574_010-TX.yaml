@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致海潮音社書今已至巴黎二日矣中國留學生團體東方文化學會大學院紛請講演約留一月再至柏林或倫敦也太虛白九月十五日見海刊九卷九期
+  hash: sha256:949abe55ef580cc732cd53784882149f579de4024b0af91d8f84dabd7be1f61f
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_010-juan-start, juan_n: '010'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:f6e4eaa056b9a66baa90736aa8f98a7863d80ab5ce7b660ca97a0f7c225b850b

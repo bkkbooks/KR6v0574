@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/162
+seq: 162
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為國難電告全國佛徒各地佛學會中國佛教會各省縣佛教會各正信會居士林佛學機關佛教團體及各叢林寺庵四衆同人公鑒茲值我國或東亞或全地球大難臨頭我等均應本佛慈悲一懇切修持佛法以祈禱侵略國止息凶暴克保人類平和二於政府統一指揮之下準備奮勇護國三練習後防工作如救護傷兵收容難民掩埋死亡維持秩序灌輸民衆防空防毒等戰時常識諸項各各隨宜盡力為要中國佛學會理事長太虛叩見海刊十八卷八期
+  hash: sha256:687ad57237b6ac9a562ee576859251c9a1bb43de19228ec0f924fabba7e0a3fc
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_162-juan-start, juan_n: '162'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:5d15980bdff228d9d0b880c10c34f489a9ede5c580967d7a9e6096f1fc74d737

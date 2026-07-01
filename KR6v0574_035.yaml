@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致默庵書默庵師鑒南京聯軍劉參謀長來信催速往講演彼處由副官處招待准今晚十一時夜車出發難得勝緣速告假一星期同往講演為要太虛白見居士林林刊第十六期
+  hash: sha256:c3ba5e14652bab9829fe3e22cb089768c5db8abca00c8fda3893046f9b82209f
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_035-juan-start, juan_n: '035'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:586a41bf86ad5060b10135ee83800299d080e6a6f17951465b12c2cc7e3551d4

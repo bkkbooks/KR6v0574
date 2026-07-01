@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致漢藏教理院第一屆畢業生函本院承劉主席及諸院董之提倡維護諸教職員之毅力熱誠諸同學之繼續精勤以有今日之畢業望爾等深造研究或宏法為眾不忘溝通漢藏宗旨以酬檀護師長之厚望特託法舫法師代為致詞幸皆存察太虛見海刊十八卷三期
+  hash: sha256:552ec957bc7cd337bdf748f4de2c0d4ba57b925b52a2a4a6d888b6231344d351
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_019-juan-start, juan_n: 019}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:5e80f4cb3af41d0547f13facb04ef1ef0dd5c19efec050a1bfc71125006cb322

@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/160
+seq: 160
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 致陝西辛未講經會電, id: KR6v0574_TX_160-mulu-1, level: '2'}
+  back: []
+hash: sha256:ac35b8fd6ad1caf6e305390b1b7d631bd4ccbda8d226779b7c21e767f707b526

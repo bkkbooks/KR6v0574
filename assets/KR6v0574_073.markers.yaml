@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/73
+seq: 73
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復蔡育之先生書, id: KR6v0574_TX_073-mulu-1, level: '2'}
+  back: []
+hash: sha256:fdee52564e82ab19e8cbeb8f7ae957f7d6fa223255bb4453c7849fa4b9f4891e

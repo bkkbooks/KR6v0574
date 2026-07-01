@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/174
+seq: 174
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆彭宣傳部長電南京宣傳部彭部長勛鑒袞袞還都喁喁望治長才攬轡作喉舌於邦家儒者登壇播絲綸於南朔將見德聲含詠仁風飄十地之雄相期道化惠露灑三天之渥昔居山野曾挹霽光謹布賀忱維祈睿察太虛叩嘯見海刊二十七卷八期
+  hash: sha256:563ea11e0c2c00f44f77c343a19418a3a84621db67c63edd300e9286d52f0ce6
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_174-juan-start, juan_n: '174'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:488700779a74bd8c4a48efe8be785123216b35417804f910a16145e4d0a51e13

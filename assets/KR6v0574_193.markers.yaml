@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/193
+seq: 193
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答純保問（三則）, id: KR6v0574_TX_193-mulu-1, level: '2'}
+  back: []
+hash: sha256:3224fb29a3df85ae88a26265806737837010026235d9307624ae110552978912

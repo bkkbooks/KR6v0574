@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/109
+seq: 109
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復楊棣棠居士書棣棠居士大鑒屢誦大著見義之切衛道之勇宏法之誠度人之懇有一時無兩之概特奉書以申拳拳即頌慧安太虛和南見居士林林刊第十二期
+  hash: sha256:5eea10c77186c2ede56f59c1a6d70931fbe0cb6d72f5dedee320bddfd89a18b3
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_109-juan-start, juan_n: '109'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:bd0e2158927c6e8ca7acc61ff6c2412c55684e7059a6670b40d04a56decf9b7e

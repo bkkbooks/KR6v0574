@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/240
+seq: 240
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答余樹東問（二則）, id: KR6v0574_TX_240-mulu-1, level: '2'}
+  back: []
+hash: sha256:554f783f4f99d0a3a2f4a74543b98f8eedb59d129a431c84affe7f6c0ebd4581

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/155
+seq: 155
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復趙慧燮李晴峰居士書趙調甫李晴峰居士轉監利正信會諸會員公鑒承惠書請邀說法病朽難應命且半月間飛漢或京亦無定希原諒并祝會眾精進太虛啟二二五趙居士存稿
+  hash: sha256:878efa321a70fd0ddb5b8a1203354bd56544acb83df98ab2f0e8aa6979b0579d
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_155-juan-start, juan_n: '155'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:cfb9e83156c4f40393cb3c102f467de508c3796603ddfdac623fe33514a446ce

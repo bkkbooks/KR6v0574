@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/10
+seq: 10
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 致海潮音社書, id: KR6v0574_TX_010-mulu-1, level: '2'}
+  back: []
+hash: sha256:a8ea6119a325e6850bd2e0d2442b715ed3a774be095a4e48e1ea46da53831270

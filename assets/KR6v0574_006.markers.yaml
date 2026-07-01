@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/6
+seq: 6
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆四川佛教會電, id: KR6v0574_TX_006-mulu-1, level: '2'}
+  back: []
+hash: sha256:88be24390eae31013470472947b94c2bc76bdc875b8a747606208b2fc0ec5bc4

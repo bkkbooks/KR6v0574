@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/87
+seq: 87
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆周亮才先生書亮才先生左右欣展來教乃京華舊遊恍然心目忽聞人庵病歿殊為悵悵夏邑何地其病歿情狀可得聞乎人庵積學能文信佛已篤因之發心回向三寶者頗眾足下能為一殷人庵居士傳以登海潮音否盼盼即訊秋祺太虛合十見海潮音四卷十期
+  hash: sha256:2da7583863faa677bee7c0358c93aaabb55d657ec5fd2a1a130a3985e53813ba
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_087-juan-start, juan_n: 087}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:17be29caca86e867e799d33ebf635acc571ce850efb3354c37cde55707d84216

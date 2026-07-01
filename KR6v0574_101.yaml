@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/101
+seq: 101
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復徐兆熊先生書展誦來書論教育若偏重精神或物質之任何一方面皆足成弊甚合鄙意故前此之論教育於激成歐戰之動物教育既不謂然於壓迫當前求生天國使猶太印度淪亡之天神教育亦不謂然而所言人倫教育與佛化教育即為得精神物質的中和而平均發達之教育人倫淺近致遠猶泥故唯佛化為能得各教育之利而不受其弊達到真正富強西洋教育之目的倫理中儒教育之目的及於此更高之目的惜君於佛學毫未研究全不知吾此所謂之佛化教育為何物乃例以菩龕佛像不衣不食此則全出君之誤認而於君所謂佛化教育無關也此復并希於佛化稍研究焉見海刊六卷十期
+  hash: sha256:7ff24f4b27fa580f7cbef8ee6919e5422caa75062ccac9afca1cbc103936eafd
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_101-juan-start, juan_n: '101'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:de5716479b8aee56c2e26b0ade7a08e069d02f494ecba9e1c0fd747e70c60ff7

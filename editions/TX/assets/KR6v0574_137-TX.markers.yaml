@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/137
+seq: 137
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_137-0246a10, ed: TX, 'n': 0246a10}
+  - {type: 其他, offset: 0, content: 復徐尋聲居士書, id: KR6v0574_TX_137-mulu-1, level: '2'}
+  - {type: page-break, offset: 7, content: '', id: KR6v0574_TX_137-0247a, ed: TX, 'n': 0247a, source_xml_id: TX26.0017.0247a}
+  - {type: line-break, offset: 7, content: '', id: KR6v0574_TX_137-0247a01, ed: TX, 'n': 0247a01}
+  - {type: xml-element, offset: 7, content: '', id: pTX26p0247a0101, name: p, role: open, attrs: {'xml:id': pTX26p0247a0101, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 12, content: ：, id: KR6v0574_TX_137-bkkpn1}
+  - {type: punctuation, offset: 14, content: ，, id: KR6v0574_TX_137-bkkpn2}
+  - {type: punctuation, offset: 23, content: 、, id: KR6v0574_TX_137-bkkpn3}
+  - {type: punctuation, offset: 31, content: ，, id: KR6v0574_TX_137-bkkpn4}
+  - {type: line-break, offset: 38, content: '', id: KR6v0574_TX_137-0247a02, ed: TX, 'n': 0247a02}
+  - {type: punctuation, offset: 43, content: 。, id: KR6v0574_TX_137-bkkpn5}
+  - {type: punctuation, offset: 47, content: 、, id: KR6v0574_TX_137-bkkpn6}
+  - {type: punctuation, offset: 50, content: 、, id: KR6v0574_TX_137-bkkpn7}
+  - {type: punctuation, offset: 56, content: ，, id: KR6v0574_TX_137-bkkpn8}
+  - {type: punctuation, offset: 62, content: ，, id: KR6v0574_TX_137-bkkpn9}
+  - {type: line-break, offset: 70, content: '', id: KR6v0574_TX_137-0247a03, ed: TX, 'n': 0247a03}
+  - {type: punctuation, offset: 70, content: ！, id: KR6v0574_TX_137-bkkpn10}
+  - {type: punctuation, offset: 74, content: ！, id: KR6v0574_TX_137-bkkpn11}
+  - {type: punctuation, offset: 76, content: 。, id: KR6v0574_TX_137-bkkpn12}
+  - {type: xml-element, offset: 76, content: '', id: pTX26p0247a0101_end, name: p, role: close, attrs: {'xml:id': pTX26p0247a0101, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 76, content: '', id: KR6v0574_TX_137-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 76, content: （, id: KR6v0574_TX_137-bkkpn13}
+  - {type: punctuation, offset: 84, content: ）, id: KR6v0574_TX_137-bkkpn14}
+  - {type: xml-element, offset: 84, content: '', id: KR6v0574_TX_137-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:7ad8b95245753cadb5f9c9c03540ff846dd6ac22cd273f491a1b6f2f80757c33

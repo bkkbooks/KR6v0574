@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/177
+seq: 177
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賀陳辭修總長就職電南京陳參謀總長辭修先生勛鑒抗戰成功巴徼振凱旋之旅指揮若定屺橋回訪道之車先生秉武三軍抗稜八表長征絶幕刻石字於狼胥固我邊疆控河源於牛渚猶復公忠體國羞言大樹之功總長參謀不受通侯之賞允宜矜式縈感私衷肅布賀忱聊申敬禮太虛叩東覺群一卷二期
+  hash: sha256:cbfb9fe41445091bdcb61128d188ae4c132b479c1bae2774b071911f51a151e6
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_177-juan-start, juan_n: '177'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:92d0ed4b3ad4ded091e3e3970e4e9b6a1b4a00b5e03066b7c7b8f229c2cc496d

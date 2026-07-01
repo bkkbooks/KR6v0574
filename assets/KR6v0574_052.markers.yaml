@@ -1,0 +1,13 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/52
+seq: 52
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 與優曇書（五通）, id: KR6v0574_TX_052-mulu-1, level: '2'}
+  - {type: 其他, offset: 6, content: 一, id: KR6v0574_TX_052-mulu-2, level: '3'}
+  - {type: 其他, offset: 159, content: 二, id: KR6v0574_TX_052-mulu-3, level: '3'}
+  - {type: 其他, offset: 205, content: 三, id: KR6v0574_TX_052-mulu-4, level: '3'}
+  - {type: 其他, offset: 322, content: 四, id: KR6v0574_TX_052-mulu-5, level: '3'}
+  - {type: 其他, offset: 434, content: 五, id: KR6v0574_TX_052-mulu-6, level: '3'}
+  back: []
+hash: sha256:331bec00419c5ed812bc60c48395f91051d01c042ae6509e992c968a7ce1da89

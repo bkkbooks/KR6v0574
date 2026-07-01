@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/137
+seq: 137
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復徐尋聲居士書, id: KR6v0574_TX_137-mulu-1, level: '2'}
+  back: []
+hash: sha256:d1898271a1f4e746267224ddb1fa37f61e6e9a79faa36f8509e1a558476113ca

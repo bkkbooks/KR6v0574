@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/122
+seq: 122
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 告國內佛學同志書, id: KR6v0574_TX_122-mulu-1, level: '2'}
+  back: []
+hash: sha256:cb21aa994066eb78700caad86279e384218e97c841c3e40d4aa380bb4be05861

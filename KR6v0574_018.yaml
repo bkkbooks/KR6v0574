@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致漢院員生書前因院務主任因病辭職他去所有院務主任一職應即取銷分請遍能法師為教務主任主持教務常恩法師為事務主任主持事務其他教務事務各員就留院者協力維持維藏文重要已去函喇嘛速即請還酌加供養俾能盡職學生併為一班其程度低者退保證金遣回學生須嚴遵院規違犯者擯除院長太虛二二九一五見漢藏教理院年刊
+  hash: sha256:ab5e20e4e23ff3c95bdd5e4d8b895a8879a3cd85d7309850f43bc98146d0b982
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_018-juan-start, juan_n: 018}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:3a25802db5013be378cda702253bb8e16c151bf437d3188d1dada1806030e587

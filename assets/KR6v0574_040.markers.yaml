@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/40
+seq: 40
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆能信書（二通）, id: KR6v0574_TX_040-mulu-1, level: '2'}
+  - {type: 其他, offset: 6, content: 一, id: KR6v0574_TX_040-mulu-2, level: '3'}
+  - {type: 其他, offset: 113, content: 二, id: KR6v0574_TX_040-mulu-3, level: '3'}
+  back: []
+hash: sha256:7702fb8218ee1681740d09f6bdd5c698256f5a150abcb48bb0962b74a48019f3

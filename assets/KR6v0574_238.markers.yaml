@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/238
+seq: 238
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答李子寬問, id: KR6v0574_TX_238-mulu-1, level: '2'}
+  back: []
+hash: sha256:9945a0d1738b4704254396b4286c047ed4f86eed0b7635c7e57c3a042e01c7f2

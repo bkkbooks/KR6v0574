@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復費範九先生書範九先生大鑒奉觀社章體大思精承蒙垂詢無詞可贊為愧他日重遊南通謹當恭瞻德化沐浴淳風然鄙意則更望先生以此為方便之多門而有以引歸一實之佛乘耳此復并訊歲安太虛和南見淡遠樓存牋甲集
+  hash: sha256:e5ad66c8f3a624328552a2a2bd902ea13808cca2a4a529e33984460540670c38
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_080-juan-start, juan_n: 080}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:50b51f44b118506307019580aade307af13c468566dbb4e396f286429f18408c

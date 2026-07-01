@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/148
+seq: 148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復李虎居士書虎居士慧鑒接閱復書滿懷傷感至望本大乘慈悲作在家正信佛徒自覺覺他無負奉佛之初衷際茲國難嚴重來印尚未可定此復並祝旅祺太虛見正信十卷十一期
+  hash: sha256:530da3490e58b5032beb2ca5f89905e7629a3090c59e1d94b9a636e7a7e562b3
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_148-juan-start, juan_n: '148'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:9174e581b1fbe49b31c05e212d5f4747612aeb7c51ab8c3256418b407dce2def

@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/146
+seq: 146
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復李蔭亭居士書, id: KR6v0574_TX_146-mulu-1, level: '2'}
+  back: []
+hash: sha256:d8dbed98452c9df9b5b8711f95239c2a74c84e38b363a29d1ab6e2ca4181da4f

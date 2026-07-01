@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/238
+seq: 238
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答李子寬問問大般若經僅言六識不言七識八識何故答通於三乘之經典僅言六識只大乘一分經典言七識八識然不言七識八識乃包于六識或意根中也程心勉記見海刊二十六卷六七期合刊
+  hash: sha256:605b9066058040287a5a2fa82650698960911730fd2cfac6f304fc9a6c1dfdf0
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_238-juan-start, juan_n: '238'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:9f4cd585efc0f0867f8bef7aa972ba8a2967c47239d0bd26a137c8093ab25974

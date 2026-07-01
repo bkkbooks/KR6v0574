@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/175
+seq: 175
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賀上海吳市長電上海吳市長國楨先生勛鑒中樞望治昃晷思賢為地擇人調公長滬春申迪慶萬國騰歡甘棠蔭屋援街咸思召伯名宦送江入海不讓坡公循聲早播江漢之間治績更駕巴渝而上誼深文化道契寰中流水不窮浮雲自遠敢忘世俗之禮聊申忭賀之私佇候履新諸維愛照太虛叩效見海二十七卷八期
+  hash: sha256:869428a6ebf9d82830b160d4f1733c9990a78b8c08b098e411a804efe6dd3e95
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_175-juan-start, juan_n: '175'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:c6bc14b7d4c27b283353607d7b18699a4f66a3d0945d3e96d9fd63a9fb7fddf2

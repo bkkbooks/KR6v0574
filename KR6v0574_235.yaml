@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/235
+seq: 235
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答劉密機問問無我二字或曰是無主宰或曰是無想其義何是答無我自佛經言有人無我法無我無主宰是人無我有情衆生無固定之主宰者情固定之主體對非主體有宰割之用乃名曰我無我則無主宰如宇宙中有主宰之神而此神乃宇宙之我人有皮膚肌肉血液知覺等其主宰即神我也有情衆生無一定主宰故衆生無我廣義言之衆生均無自性一切衆生由因緣和合而有一切諸法亦然無離一切而單獨之性是以一切諸法一切衆生均無自性然無我非無想想係心之想心所無想乃暫時心之想作用不現起並非真明本空無我以無主宰無自性明無我不是全無自另一面言之即一切法均從因緣所起程心勉記見海刊二十二卷六七期合刊
+  hash: sha256:ec295cee12a8390bbb856855b8224909c131b0ec559776dce36bb98190436d45
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_235-juan-start, juan_n: '235'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:98ad6b7f895e591c36abcde9875570f29c71e0be9ae72bbf932b4e5a965c65bf

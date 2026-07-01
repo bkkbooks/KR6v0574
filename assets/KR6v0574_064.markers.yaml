@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/64
+seq: 64
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 覆朱幸覺居士書, id: KR6v0574_TX_064-mulu-1, level: '2'}
+  back: []
+hash: sha256:011564c46fafb681599ba1500b11bc43757cb69c2fa3bdce1db9b4e99dc5619b

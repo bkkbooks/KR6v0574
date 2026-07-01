@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復周繼武居士書繼武居士慧鑒展惠書並所附書覽之心意快然殆非言喻虛之起信宗地上菩薩心境說義得楞伽藏識寄居如來藏中證之及起信不唯以真如為真如兼以淨法為真如義又真如亦為所緣緣義虛皆發端而微得附書益臻明了喜何似之當即將件送海潮音發表俾閲者同沾法樂專頌禪悅太虛謹復二五八五見海刊十七卷九期
+  hash: sha256:133c09c93bc455c21878fd695bd9f51cf9418f7c14e852cebbad9008b70c9e37
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_144-juan-start, juan_n: '144'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:2b7389aa7bbc0d3e2ebb59daf6ebf68280e048c453a44c3523db678d7bca811a

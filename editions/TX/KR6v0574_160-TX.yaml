@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/160
+seq: 160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致陜西辛未講經會電陜西辛未講經會公鑒東電悉候朱子橋長者來平即同來陜太虛見海刊十二卷十一期
+  hash: sha256:08671a8df8e316330814924cdaf5c848c10da845124b4b42dba876db709a448c
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_160-juan-start, juan_n: '160'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:600ba6b15d84e841bf3b090ec5d0f428717a05780fcd88e8fb262373782d3402

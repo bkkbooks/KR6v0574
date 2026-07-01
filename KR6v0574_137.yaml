@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/137
+seq: 137
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復徐尋聲居士書尋聲居士鑒得函藉悉近來時到會與鍾呂諸居士熱心會務并曾參加漢南正信會皈依會對王仁勵陳丹階錢養吾諸居士均希轉為問訊并囑時通音信為盼順候近祉太虛見正信二卷十一期
+  hash: sha256:f6ced9adb90b3b5f19b7c61f9f4e7e80516c30fad8b6afbf113b9904efbaabdd
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_137-juan-start, juan_n: '137'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:e912955ff4024e76e76c188349ee811f310d1191364e662859abd48f2d081aaf

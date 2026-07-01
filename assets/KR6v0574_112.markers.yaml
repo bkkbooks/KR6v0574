@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/112
+seq: 112
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 致李石曾先生書, id: KR6v0574_TX_112-mulu-1, level: '2'}
+  back: []
+hash: sha256:d8968be560cc29c30be4e2828b0f5b32e10434d09817281e61b07e8c8c476fca

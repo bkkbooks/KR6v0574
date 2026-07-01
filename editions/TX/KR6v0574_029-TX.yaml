@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答某師書某十年來所持論旨在並宏大乘各宗以通達其平等而標顯其殊勝平等達則障蔽除殊勝顯則信行起義若相反事固相成言之間有抑揚亦明其短長互見無可高下而已夫揉曲木欲令其直必反其直而曲之而後能直賢家判教對大乘性相抑之獨甚以欲除其抑故從而反抑之反抑之非抑也使底於平耳座下知賢首融性相之諍為時之所當言何不知今融權實一三等之諍亦為時之所當言乎某雖不欲墨守古人家法然對於墨守古人家法者屬之各標殊勝門內敬之重之初不歧視以非獨標華嚴殊勝不足起華嚴之信行猶之非獨標彌陀殊勝不足起彌陀之信行耳斯意深長他日當有專書問世今姑止此見海刊五卷二期
+  hash: sha256:c3c2fe1ef9b8c91f1aad55d4f5fdf9b5c95a5d2296693d80daf47a8636e62435
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_029-juan-start, juan_n: 029}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:ced19482e5294c4166b4f8933913f79d983ff4982e57a4670f21018f93c3637f

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/180
+seq: 180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為追薦羅斯福總統告全國佛教徒電全國佛教團體徒眾均鑒羅斯福總統在美國為未曾有之聯四任者在全世界為同盟國之執牛耳者仁聲義聞洋溢全球吾佛徒方以鐵輪王奮戈乃定期之不圖未及觀成遽傳噩耗所幸蕭規曹隨勝業必成吾佛徒哀慕之餘其各誦經念佛竭誠追荐以見公道在人良心未泯戰爭必可消弭和平定能永久矣中國佛學會理事長太虛叩元見海刊二十六卷五期
+  hash: sha256:998a5b0c6739fffbacd80cf00820d77e9187e759d19457fcfb66e31c363fa3f2
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_180-juan-start, juan_n: '180'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:da201432e25b4dfc943ceb7eb224e09679897805d2e6a7e56af8300d4f11d293

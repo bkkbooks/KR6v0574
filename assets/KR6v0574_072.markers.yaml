@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/72
+seq: 72
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 答李近聃書, id: KR6v0574_TX_072-mulu-1, level: '2'}
+  back: []
+hash: sha256:0707f72455d1a5b0548f6037efeebe057f75de6aa454d576ee042a52e0b44b17

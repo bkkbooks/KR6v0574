@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/168
+seq: 168
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 電賀虞洽卿壽辰虞洽卿長者尊鑒欣逢七秩榮慶並旅滬五五紀念特電祝賀敬頌康強見廿五七十九佛教日報
+  hash: sha256:2e73ae4faa3d799f547f18730efd6751d8f93ccc6040f89771497105435793fc
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_168-juan-start, juan_n: '168'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:8f973e9daa4f2a256700d4c2b9daa27f4f7f189611c4833d94190113a9a85182

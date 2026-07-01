@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆佛教普濟日災會謹復者來函敬悉救災恤鄰以暢慈悲普運之本懷極表同情惟所擬辦法似宜改度亡部為宏法部詞與利生相對較為隨順但于宏法部內可略分三條一度亡如所擬云云二文字徵集關於救恤日災文字印成小冊贈送勸化三言說組織講演隊隨處演說藉以警悟以茲三者傳布宏法於國內外是否有當統希裁量順叩慈安釋太虛謹復見海刊四卷九期
+  hash: sha256:3df24a6977f76dfdd0ab2932d9fea99d8f8a3a3a72a9775dad2a2d8e6f35c44e
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_002-juan-start, juan_n: '002'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:f71911ff7ba70d7e65dfd4d8e3672559320f84b205c820965bd0050733363269

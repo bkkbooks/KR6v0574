@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/118
+seq: 118
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致王森甫居士等書森甫仲階諸賢均覽大愚偶言人夙命事無可稽徒益人疑謗皆不應傳述凡此鬼亦優為者佛法行人勿存心念將以為逗人方便其被此等方便引生之信心大抵迷信徒長鬼神教之焰反蔽佛光必應使人遵依經律論生信解行勤持密法勿生增上慢應悟無有一法可得名阿耨多羅三藐三菩提見海刊十卷七期
+  hash: sha256:1ac7c29c33545d43fb67e0e8305d77a61b1d5006d2cd10823e389bac45c88a84
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_118-juan-start, juan_n: '118'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:25837e1bc506e1a0b2f45a9cab1e59b16cb53e930dee2d6acb68c5f2c9b537e5

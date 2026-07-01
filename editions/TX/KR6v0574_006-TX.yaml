@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆四川佛教會電成都文殊院方丈轉四川佛教會公鑒來電已函陳善後會議中班禪熊希齡二公託為提議維護矣太虛覆覃見海刊六卷三期
+  hash: sha256:44c32ca953c583e4e1200f46fc166a3d4963d2ec91f97a902fa501998728a26e
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_006-juan-start, juan_n: '006'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:157fcb3f8427b9da9943008523ce184db4e2af64fb0f26cd1a174c4f53e34cb6

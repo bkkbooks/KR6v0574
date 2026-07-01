@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR6v0574/TX/v1/markers/10
+seq: 10
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_010-0006a04, ed: TX, 'n': 0006a04}
+  - {type: 其他, offset: 0, content: 致海潮音社書, id: KR6v0574_TX_010-mulu-1, level: '2'}
+  - {type: line-break, offset: 6, content: '', id: KR6v0574_TX_010-0006a05, ed: TX, 'n': 0006a05}
+  - {type: xml-element, offset: 6, content: '', id: pTX26p0006a0501, name: p, role: open, attrs: {'xml:id': pTX26p0006a0501, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: punctuation, offset: 14, content: 。, id: KR6v0574_TX_010-bkkpn1}
+  - {type: punctuation, offset: 21, content: ，, id: KR6v0574_TX_010-bkkpn2}
+  - {type: punctuation, offset: 27, content: 、, id: KR6v0574_TX_010-bkkpn3}
+  - {type: punctuation, offset: 30, content: ，, id: KR6v0574_TX_010-bkkpn4}
+  - {type: punctuation, offset: 34, content: ；, id: KR6v0574_TX_010-bkkpn5}
+  - {type: line-break, offset: 36, content: '', id: KR6v0574_TX_010-0006a06, ed: TX, 'n': 0006a06}
+  - {type: punctuation, offset: 38, content: ，, id: KR6v0574_TX_010-bkkpn6}
+  - {type: punctuation, offset: 46, content: 。, id: KR6v0574_TX_010-bkkpn7}
+  - {type: punctuation, offset: 49, content: 。, id: KR6v0574_TX_010-bkkpn8}
+  - {type: punctuation, offset: 54, content: 。, id: KR6v0574_TX_010-bkkpn9}
+  - {type: xml-element, offset: 54, content: '', id: pTX26p0006a0501_end, name: p, role: close, attrs: {'xml:id': pTX26p0006a0501, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: xml-element, offset: 54, content: '', id: KR6v0574_TX_010-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
+  - {type: punctuation, offset: 54, content: （, id: KR6v0574_TX_010-bkkpn10}
+  - {type: punctuation, offset: 61, content: ）, id: KR6v0574_TX_010-bkkpn11}
+  - {type: xml-element, offset: 61, content: '', id: KR6v0574_TX_010-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
+  back: []
+hash: sha256:dccce77b6401933f52f3be1fe3884523da1cee67c03d0f36fd6d2cde8db1aef4

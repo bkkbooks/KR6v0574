@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/179
+seq: 179
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唁趙戴文電趙故主席戴文家屬禮鑒文公西逝震悼殊深公一生盡瘁黨國維護佛教特電致唁尚希節哀以弘令德中國佛學會理事長太虛陷見海刊二十五卷三期
+  hash: sha256:af43559b050d1efa8a9adcf2ffd2109b2076d91bc1b8075e0a634e67a20e6224
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_179-juan-start, juan_n: '179'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:b1e25630120d3b42f1990bc7784264f07afd2663142ae93bf4d4320d0420bae4

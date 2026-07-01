@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/93
+seq: 93
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆袁聞純居士書聞純居士道鑒前者大圓居士盛稱高致心焉嚮慕遂欲以中哲講席相煩乃盛德讓先遜謝未遑益令傾折無似頃又蒙惠書厚意殷虔肫肫至誠溢於言外惟過荷推獎殊增愧耳他日有相會之緣其終駕臨鄂渚俾獲光照歟專此並頌淨祺太虛和南見海刊五卷四期
+  hash: sha256:6abc9e8ecc3c0b6e53209d590624f848754ca0d51372d4e3024acf0c41b212f8
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_093-juan-start, juan_n: 093}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:487cacf8bc0f4b094248f7d6918f9250cd4797e6c8a2736d780a2089dd623f00

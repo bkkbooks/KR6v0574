@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/191
+seq: 191
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答石扶持問答一學佛有在家士女原不限於出家故不成問題答二果然能夠皆轉成佛則佛世界豈不較人世界更為進化於至善何必定要有煩惱苦痛之人見海刊三卷一期
+  hash: sha256:3942106873fd3c2d9ef2605b604f802b56ef99e2f781d7bb6895dd266a8b0d05
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_191-juan-start, juan_n: '191'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:702919f0c81d6268380b0707192104f59734b34f03b07b171e035f4b12209974

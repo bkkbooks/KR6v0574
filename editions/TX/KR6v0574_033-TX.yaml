@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致鐵禪法師書逕啟者頃據梅埔六屬佛學院籌備處代表釋桑空等函稱組織梅埔六屬佛學院函請咨呈國民政府轉飭梅埔縣屬出示保護以利開辦而興佛事等因查該代表等組織佛學院出至精誠將來開展至何程度未可限量除一面照准轉咨國民政府請予轉飭梅埔縣屬出示保護外更應照准函請法師就近贊助以利進行期臻完善此致鐵禪法師釋太虛和南見海刊七卷三期
+  hash: sha256:0dd767c64b0bd365019b31616622f1bce140475ebeb2056fbb24967e46bcf625
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_033-juan-start, juan_n: '033'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:d29bef626a740d68f30ed2d554da6cd708bf25c2936c16f728b12aab9ae95b37

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復安慶佛教居士林函安慶佛教居士林暨林友各居士均鑒貴林六周年紀念擬請宣講蓮華經惟本人以法務羈身不克前來屆時可薦慈航法師代座此祝諸位法樂太虛見正信九卷三十四期
+  hash: sha256:f80839d2873611d9b62dbd8ff97bff74da16b855b685c8c679ad03a974c08ca7
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_020-juan-start, juan_n: '020'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:254a92c4ad1efe554c91dc3b542c1445a957e966071ec2509a2f0f9564eca613

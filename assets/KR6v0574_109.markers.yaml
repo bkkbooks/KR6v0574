@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR6v0574/bkk/v1/markers/109
+seq: 109
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 復楊棣棠居士書, id: KR6v0574_TX_109-mulu-1, level: '2'}
+  back: []
+hash: sha256:1fdd1c0955f6be4c99cdf6269a2c3247f1f3b981364af2bedb49b6bb48317282

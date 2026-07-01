@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0574/tx/v1/juan/171
+seq: 171
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 電賀緬僧高壽阿戾都耶法師慧鑒余去歲領導中國佛教訪問團訪問貴國佛教名德得晤法師討論中緬佛法兩無歧異兩國佛教民族應友愛親善甚佩尊見今得訊知法師八八誕辰謹代表中國佛教徒以無限之願望謹祝座下努力世界佛教運動促進中緬親善福智雙修長壽無量特此電賀重慶中國佛學會理事長太虛二十九年十一月二十四日見海刊二十二卷三期
+  hash: sha256:1b50ce98848da71f2cea6a1fae4cf812b2dc003d64ed6a564b6b8e0283807ce4
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_171-juan-start, juan_n: '171'}
+metadata:
+  title: 太虛大師全書．第十七編　酬對
+  edition:
+    short: tx
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
+    old_id: TX26n0017
+hash: sha256:394771b16499b946bf5067766cee4be422146e44d28cfcc5e9bede0509522553
