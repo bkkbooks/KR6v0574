@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 為蔣委員祈禱安全通電全國佛教寺院會社公鑒委員長蔣公一身繫國家安危民族興替頃蒙難西安祈即或聯合或分別修法誦經祈求早獲安全返京不勝憂痛迫切之至見草五十二十八佛教日報
-  hash: sha256:0ca683a8f25d548daa45b6dec9aef19e3b97d59aa34a48c100a512ff4ecde93e
+  text: 為蔣委員祈禱安全通電全國佛教寺院會社公鑒委員長蔣公一身繫國家安危民族興替頃蒙難西安祈即或聯合或分別修法誦經祈求早獲安全返京不勝憂痛迫切之至見廿五十二十八佛教日報
+  hash: sha256:750869a74480aeaf93b93c9eba40c2e4fa765464b7d5c3c84d79a76d66e8dbdb
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_163-juan-start, juan_n: '163'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:0e3e2fb0c3be2451d103f82b9ffe16f2c22c9647538d16465fe766bae9d82810
+hash: sha256:7129fea5386d807f86d47b599f7484840c923124bcd117ec0acb39d3f3c2762e

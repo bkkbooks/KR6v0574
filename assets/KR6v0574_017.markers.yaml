@@ -11,7 +11,6 @@ markers:
   - {type: punctuation, offset: 32, content: ，, id: KR6v0574_TX_017-bkkpn2}
   - {type: line-break, offset: 40, content: '', id: KR6v0574_TX_017-0017a08, ed: TX, 'n': 0017a08}
   - {type: punctuation, offset: 41, content: ，, id: KR6v0574_TX_017-bkkpn3}
-  - {type: substitution, offset: 62, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 64, content: ，, id: KR6v0574_TX_017-bkkpn4}
   - {type: line-break, offset: 75, content: '', id: KR6v0574_TX_017-0017a09, ed: TX, 'n': 0017a09}
   - {type: punctuation, offset: 79, content: ，, id: KR6v0574_TX_017-bkkpn5}
@@ -43,7 +42,6 @@ markers:
   - {type: line-break, offset: 236, content: '', id: KR6v0574_TX_017-0018a03, ed: TX, 'n': 0018a03}
   - {type: punctuation, offset: 249, content: 。, id: KR6v0574_TX_017-bkkpn24}
   - {type: punctuation, offset: 253, content: ，, id: KR6v0574_TX_017-bkkpn25}
-  - {type: substitution, offset: 256, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: punctuation, offset: 257, content: 。, id: KR6v0574_TX_017-bkkpn26}
   - {type: xml-element, offset: 257, content: '', id: pTX26p0018a0201_end, name: p, role: close, attrs: {'xml:id': pTX26p0018a0201, style: 'margin-left:0em;text-indent:2em'}}
   - {type: xml-element, offset: 257, content: '', id: KR6v0574_TX_017-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
@@ -51,4 +49,4 @@ markers:
   - {type: punctuation, offset: 264, content: ）, id: KR6v0574_TX_017-bkkpn28}
   - {type: xml-element, offset: 264, content: '', id: KR6v0574_TX_017-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:5a0214de19c4334f5394d62e6244c08a88e0653491d8ee513b2e326040a9c15e
+hash: sha256:2e55b664c655b0c78bbb86baf8ac792375e96a459695324f55742dfcde27fc68

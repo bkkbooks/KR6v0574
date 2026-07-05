@@ -39,15 +39,12 @@ markers:
   - {type: line-break, offset: 165, content: '', id: KR6v0574_TX_138-0247a10, ed: TX, 'n': 0247a10}
   - {type: punctuation, offset: 166, content: ，, id: KR6v0574_TX_138-bkkpn26}
   - {type: punctuation, offset: 173, content: ，, id: KR6v0574_TX_138-bkkpn27}
-  - {type: substitution, offset: 181, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 186, content: ，, id: KR6v0574_TX_138-bkkpn28}
   - {type: punctuation, offset: 192, content: ，, id: KR6v0574_TX_138-bkkpn29}
-  - {type: substitution, offset: 196, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: line-break, offset: 198, content: '', id: KR6v0574_TX_138-0247a11, ed: TX, 'n': 0247a11}
   - {type: punctuation, offset: 200, content: ！, id: KR6v0574_TX_138-bkkpn30}
   - {type: punctuation, offset: 202, content: ，, id: KR6v0574_TX_138-bkkpn31}
   - {type: punctuation, offset: 206, content: ！, id: KR6v0574_TX_138-bkkpn32}
-  - {type: substitution, offset: 209, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 210, content: 。, id: KR6v0574_TX_138-bkkpn33}
   - {type: punctuation, offset: 214, content: 。, id: KR6v0574_TX_138-bkkpn34}
   - {type: xml-element, offset: 214, content: '', id: pTX26p0247a0501_end, name: p, role: close, attrs: {'xml:id': pTX26p0247a0501, style: 'margin-left:0em;text-indent:2em'}}
@@ -56,4 +53,4 @@ markers:
   - {type: punctuation, offset: 221, content: ）, id: KR6v0574_TX_138-bkkpn36}
   - {type: xml-element, offset: 221, content: '', id: KR6v0574_TX_138-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:0c147e38216737345434068c125eef421f6a47b0bef79cadf538c79f1e0b6e21
+hash: sha256:2d3ac9ce3d613fea8c30fd01fa48430f8a4e29f6e73822062fd1d468c9ffb710

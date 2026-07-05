@@ -7,8 +7,6 @@ markers:
   - {type: 其他, offset: 0, content: 覆濟南淨居寺電, id: KR6v0574_TX_165-mulu-1, level: '2'}
   - {type: line-break, offset: 7, content: '', id: KR6v0574_TX_165-0300a07, ed: TX, 'n': 0300a07}
   - {type: xml-element, offset: 7, content: '', id: pTX26p0300a0701, name: p, role: open, attrs: {'xml:id': pTX26p0300a0701, style: 'margin-left:0em;text-indent:2em'}}
-  - {type: substitution, offset: 13, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
-  - {type: substitution, offset: 18, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 23, content: ：, id: KR6v0574_TX_165-bkkpn1}
   - {type: punctuation, offset: 27, content: ，, id: KR6v0574_TX_165-bkkpn2}
   - {type: punctuation, offset: 31, content: 。, id: KR6v0574_TX_165-bkkpn3}
@@ -25,17 +23,14 @@ markers:
   - {type: xml-element, offset: 66, content: '', id: pTX26p0300a0901, name: p, role: open, attrs: {'xml:id': pTX26p0300a0901, style: 'margin-left:0em;text-indent:2em'}}
   - {type: punctuation, offset: 73, content: ，, id: KR6v0574_TX_165-bkkpn11}
   - {type: punctuation, offset: 84, content: ，, id: KR6v0574_TX_165-bkkpn12}
-  - {type: substitution, offset: 85, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 94, content: ，, id: KR6v0574_TX_165-bkkpn13}
   - {type: line-break, offset: 98, content: '', id: KR6v0574_TX_165-0300a10, ed: TX, 'n': 0300a10}
-  - {type: substitution, offset: 101, original: 甯, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0117}}
   - {type: punctuation, offset: 102, content: 。, id: KR6v0574_TX_165-bkkpn14}
   - {type: punctuation, offset: 106, content: 。, id: KR6v0574_TX_165-bkkpn15}
   - {type: xml-element, offset: 106, content: '', id: pTX26p0300a0901_end, name: p, role: close, attrs: {'xml:id': pTX26p0300a0901, style: 'margin-left:0em;text-indent:2em'}}
   - {type: xml-element, offset: 106, content: '', id: KR6v0574_TX_165-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
   - {type: punctuation, offset: 106, content: （, id: KR6v0574_TX_165-bkkpn16}
-  - {type: substitution, offset: 108, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 114, content: ）, id: KR6v0574_TX_165-bkkpn17}
   - {type: xml-element, offset: 114, content: '', id: KR6v0574_TX_165-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:e735710744cb8f299c0bcd80cd6463ceb599aece7a4d3f7425a52b8e618daec5
+hash: sha256:6ae96ee91f13a8075a25c9516d809f0eb7dfc613b6b53c6dec9ca945449af034

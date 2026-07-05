@@ -7,8 +7,6 @@ markers:
   - {type: 其他, offset: 0, content: 致鐵禪法師書, id: KR6v0574_TX_033-mulu-1, level: '2'}
   - {type: line-break, offset: 6, content: '', id: KR6v0574_TX_033-0034a08, ed: TX, 'n': 0034a08}
   - {type: xml-element, offset: 6, content: '', id: pTX26p0034a0801, name: p, role: open, attrs: {'xml:id': pTX26p0034a0801, style: 'margin-left:0em;text-indent:2em'}}
-  - {type: substitution, offset: 6, original: 逕, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0550}}
-  - {type: substitution, offset: 7, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 9, content: ：, id: KR6v0574_TX_033-bkkpn1}
   - {type: punctuation, offset: 29, content: ：, id: KR6v0574_TX_033-bkkpn2}
   - {type: punctuation, offset: 29, content: 「, id: KR6v0574_TX_033-bkkpn3}
@@ -24,7 +22,6 @@ markers:
   - {type: punctuation, offset: 92, content: 。, id: KR6v0574_TX_033-bkkpn11}
   - {type: page-break, offset: 104, content: '', id: KR6v0574_TX_033-0035a, ed: TX, 'n': 0035a, source_xml_id: TX26.0017.0035a}
   - {type: line-break, offset: 104, content: '', id: KR6v0574_TX_033-0035a01, ed: TX, 'n': 0035a01}
-  - {type: substitution, offset: 104, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: punctuation, offset: 116, content: ，, id: KR6v0574_TX_033-bkkpn12}
   - {type: punctuation, offset: 128, content: ，, id: KR6v0574_TX_033-bkkpn13}
   - {type: punctuation, offset: 132, content: ，, id: KR6v0574_TX_033-bkkpn14}
@@ -38,4 +35,4 @@ markers:
   - {type: punctuation, offset: 154, content: ）, id: KR6v0574_TX_033-bkkpn19}
   - {type: xml-element, offset: 154, content: '', id: KR6v0574_TX_033-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:fa20ee56468e636b17ca041af023a5be997a215b385e6b5f255761b5b5831413
+hash: sha256:02adc30a456e86404795a1226cfa287bdafc4baec9e02784f11d687d935af798

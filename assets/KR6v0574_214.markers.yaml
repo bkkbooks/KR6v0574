@@ -93,7 +93,6 @@ markers:
   - {type: punctuation, offset: 282, content: ；, id: KR6v0574_TX_214-bkkpn50}
   - {type: punctuation, offset: 291, content: ，, id: KR6v0574_TX_214-bkkpn51}
   - {type: punctuation, offset: 296, content: ，, id: KR6v0574_TX_214-bkkpn52}
-  - {type: substitution, offset: 299, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
   - {type: line-break, offset: 306, content: '', id: KR6v0574_TX_214-0463a05, ed: TX, 'n': 0463a05}
   - {type: punctuation, offset: 307, content: 。, id: KR6v0574_TX_214-bkkpn53}
   - {type: xml-element, offset: 307, content: '', id: pTX26p0463a0301_end, name: p, role: close, attrs: {'xml:id': pTX26p0463a0301, style: 'margin-left:1em;text-indent:-1em'}}
@@ -102,7 +101,6 @@ markers:
   - {type: punctuation, offset: 309, content: 、, id: KR6v0574_TX_214-bkkpn54}
   - {type: punctuation, offset: 310, content: 、, id: KR6v0574_TX_214-bkkpn55}
   - {type: punctuation, offset: 311, content: ：, id: KR6v0574_TX_214-bkkpn56}
-  - {type: substitution, offset: 313, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
   - {type: punctuation, offset: 340, content: ，, id: KR6v0574_TX_214-bkkpn57}
   - {type: line-break, offset: 340, content: '', id: KR6v0574_TX_214-0463a07, ed: TX, 'n': 0463a07}
   - {type: punctuation, offset: 355, content: ，, id: KR6v0574_TX_214-bkkpn58}
@@ -114,4 +112,4 @@ markers:
   - {type: punctuation, offset: 367, content: ）, id: KR6v0574_TX_214-bkkpn61}
   - {type: xml-element, offset: 367, content: '', id: KR6v0574_TX_214-bkkxmlele6, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:f8c3a593c8d1653e46c09818514b5729ad24eccca468bc0ca0441ff7ff0c1c9e
+hash: sha256:0352ef394dc3da5da8347d617986db719d932d400490a66949861a170fda6119

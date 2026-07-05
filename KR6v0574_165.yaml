@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 覆濟南淨居寺電濟南淨居寺靜齊大德轉四衆同仁均鑒支電奉悉實深同情空飛乏術電掬精誠并急刊布來電呼籲全國名剎高德同誦仁護以禱平安矣太虛寅齊見茲來往電文者全國名剎請誦仁王護國經四衆同仁亦各隨誦經咒以共回向濟南安寧太虛附請見覺群二卷卅五期
-  hash: sha256:ecd7b86978cc666af42162432e4ba944b9c4c3cc5852dfbbde36c999abbdb735
+  text: 覆濟南淨居寺電濟南淨居寺靜齋大德轉四眾同仁均鑒支電奉悉實深同情空飛乏術電掬精誠并急刊布來電呼籲全國名剎高德同誦仁護以禱平安矣太虛寅齊見茲來往電文者全國名剎請誦仁王護國經四眾同仁亦各隨誦經咒以共回向濟南安甯太虛附請見覺群二卷卅五期
+  hash: sha256:815749774ea2e16aa5bf2d751d59aebed67fe524ac526f303ea03353ade09047
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_165-juan-start, juan_n: '165'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:18162c5d673f280d260c76606576f7b07f63f1f282997846898dbcbad0d484ed
+hash: sha256:184ffc4959cdaaeff91c6b3b0f1990cb10b073047b1a0c908d9aac2cf13d2302

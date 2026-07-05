@@ -82,7 +82,6 @@ markers:
   - {type: punctuation, offset: 329, content: ，, id: KR6v0574_TX_201-bkkpn57}
   - {type: punctuation, offset: 336, content: 。, id: KR6v0574_TX_201-bkkpn58}
   - {type: punctuation, offset: 340, content: ，, id: KR6v0574_TX_201-bkkpn59}
-  - {type: substitution, offset: 341, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 345, content: ，, id: KR6v0574_TX_201-bkkpn60}
   - {type: punctuation, offset: 349, content: ，, id: KR6v0574_TX_201-bkkpn61}
   - {type: line-break, offset: 352, content: '', id: KR6v0574_TX_201-0419a03, ed: TX, 'n': 0419a03}
@@ -155,12 +154,10 @@ markers:
   - {type: line-break, offset: 652, content: '', id: KR6v0574_TX_201-0420a02, ed: TX, 'n': 0420a02}
   - {type: xml-element, offset: 652, content: '', id: pTX26p0420a0201, name: p, role: open, attrs: {'xml:id': pTX26p0420a0201, style: 'margin-left:6em;text-indent:-4em'}}
   - {type: punctuation, offset: 652, content: （, id: KR6v0574_TX_201-bkkpn111}
-  - {type: substitution, offset: 653, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 654, content: ）, id: KR6v0574_TX_201-bkkpn112}
   - {type: punctuation, offset: 655, content: 「, id: KR6v0574_TX_201-bkkpn113}
-  - {type: substitution, offset: 665, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 668, content: 」, id: KR6v0574_TX_201-bkkpn114}
   - {type: punctuation, offset: 670, content: 。, id: KR6v0574_TX_201-bkkpn115}
   - {type: xml-element, offset: 670, content: '', id: pTX26p0420a0201_end, name: p, role: close, attrs: {'xml:id': pTX26p0420a0201, style: 'margin-left:6em;text-indent:-4em'}}
   back: []
-hash: sha256:7967f55967e8c3237e7ad0f5e620dad23b0fb82703802bbaf84eb5116307d3e6
+hash: sha256:2681ea5ec5ed0309cbbc0c4559c43a3f72099475f3d3381bbec7a31784366c66

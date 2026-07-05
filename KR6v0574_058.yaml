@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 復性覺書性覺函悉在平近況李介如居士係湯住心居士介紹商組中國佛教會北平市分會整理委員會者七人名單乃吾所開與並已由京整會行文李君與社會局請虛心為北平佛教與商洽一切太虛卅五七草九性覺存稿
-  hash: sha256:4ca27723c97b3c748a6328ec09b2de521cd0888827d372a63bf68e042a35d4e4
+  text: 復性覺書性覺函悉在平近況李介如居士係湯住心居士介紹商組中國佛教會北平市分會整理委員會者七人名單乃吾所開與並已由京整會行文李君與社會局請虛心為北平佛教與商洽一切太虛卅五七廿九性覺存稿
+  hash: sha256:14aa0d9d9d434426814c1cf1b2ae5323f6badda63f64d14fc9f19aee18f7fd11
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_058-juan-start, juan_n: 058}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:94150a7749eb391a2411455c43cfc13282945bd527e2a56800bc786304eb31b7
+hash: sha256:c629ad0a12a6397e1f232bb598450ed1cd9a671c2880dc3687af9bd93f6190a4

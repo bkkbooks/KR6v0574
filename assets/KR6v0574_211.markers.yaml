@@ -6,7 +6,6 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR6v0574_TX_211-0454a, ed: TX, 'n': 0454a, source_xml_id: TX26.0017.0454a}
   - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_211-0454a01, ed: TX, 'n': 0454a01}
   - {type: 其他, offset: 0, content: 答毘陵陳居士問（四則）, id: KR6v0574_TX_211-mulu-1, level: '2'}
-  - {type: substitution, offset: 1, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 7, content: '', id: KR6v0574_TX_211-bkkxmlele1, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 9, content: '', id: KR6v0574_TX_211-bkkxmlele2, name: note, role: close, attrs: {place: inline}}
   - {type: line-break, offset: 9, content: '', id: KR6v0574_TX_211-0454a02, ed: TX, 'n': 0454a02}
@@ -140,4 +139,4 @@ markers:
   - {type: punctuation, offset: 479, content: ）, id: KR6v0574_TX_211-bkkpn83}
   - {type: xml-element, offset: 479, content: '', id: KR6v0574_TX_211-bkkxmlele12, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:dc380859bb9abc7c4b2b7fff37cc2f605c11f1f26126d181761f2e23e2b377d1
+hash: sha256:9bd9e9d8418a7430f3f45020761ed3ae52bdbb09967e98cd4a2350e9b5116889

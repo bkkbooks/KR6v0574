@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 致西北大學校長書佩青先生大鑒夏初得示知台駕有陜西之行頃接回音並賜大學章程藉悉一是而貴大學成立之速皆出宏謀碩畫莫名欽佩閲豫科有因明大意而本科文學院於印度文化擷其精要或可設一因明唯識學講座敬質高明以為然否哲學綱要已函購遙承關照為感專復並訊起居吉祥衲太虛和南見海刊五卷一期
-  hash: sha256:d5579d4fe06157fdfc287327499182c9954ddb121145e438a4f828ddd004c108
+  text: 致西北大學校長書佩青先生大鑒夏初得示知台駕有陜西之行頃接回音並賜大學章程藉悉壹是而貴大學成立之速皆出宏謀碩畫莫名欽佩閱豫科有因明大意而本科文學院於印度文化擷其精要或可設一因明唯識學講座敬質高明以為然否哲學綱要已函購遙承關照為感專復並訊起居吉祥衲太虛和南見海刊五卷一期
+  hash: sha256:14b8d357cd61ce6d77f234087cc18f37f924501f2139ee867ed47dfc078e6c1f
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_091-juan-start, juan_n: 091}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:a9e24d601bfa4ae5a7e755eeace753aceba1243cba8aa3416e1f87f5633218cc
+hash: sha256:67d059f2c2ef28e9f5c100a72acc7bed783bf2021afef1c5baefd67a3f97ae10

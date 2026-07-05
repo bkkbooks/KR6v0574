@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 電唁蔣作賓國防最高委員會黨政考委會政務組李副組長子寬轉蔣部長雨巖家屬禮鑒閲報驚悉雨公西逝殊深震悼公勛業彪炳於國家民族者自著史冊而民七聞法普陀至滬創覺社實開佛化新運動則佛門功首也特電致唁尚希節哀以弘令德中國佛學會理事長太虛叩徑見海刊二十四卷二期
-  hash: sha256:ce820ca5536a76d432dd1f8b76d5ae2cc70ef988e32aac218677e37d0749c2bc
+  text: 電唁蔣作賓國防最高委員會黨政考委會政務組李副組長子寬轉蔣部長雨巖家屬禮鑒閱報驚悉雨公西逝殊深震悼公勛業彪炳於國家民族者自著史冊而民七聞法普陀至滬刱覺社實開佛化新運動則佛門功首也特電致唁尚希節哀以弘令德中國佛學會理事長太虛叩徑見海刊二十四卷二期
+  hash: sha256:12d858827899768335c781f0b83646e21f205d695ace87aa2f3529462b6d611d
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_178-juan-start, juan_n: '178'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:af3b06f5b9cb72cf133613fcf990e315c1b2d48402f2067fcd1a7e0d9780ee19
+hash: sha256:6f9f1eb0d18b94494fa8120aa218768e895e92d751af27dddfbd709058601cd0

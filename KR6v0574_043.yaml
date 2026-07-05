@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 覆濬然比丘書濬然比丘慧鑒函悉留心護教具徵信願師子尊者被難原有付法藏傳所說唯例如中國遭唐武宗之難非即全斷滅故不妨仍有人繼續近人發現敦煌石室唐寫本楞伽師資記日人某已印行亦有達摩承續傳至黃梅弘忍下諸師之說足證北宋前確有其傳專復順詢精進太虛啓七月草一見海刊十六卷八期
-  hash: sha256:6e65b969624a452f8ebd88d142848f3986af194a662a5e4b76a62b507a160f7a
+  text: 覆濬然比丘書濬然比丘慧鑒函悉留心護教具徵信願師子尊者被難原有付法藏傳所說唯例如中國遭唐武宗之難非即全斷滅故不妨仍有人繼續近人發現敦煌石室唐寫本楞伽師資記日人某已印行亦有達摩承續傳至黃梅弘忍下諸師之說足證北宋前確有其傳專復順詢精進太虛啟七月廿一見海刊十六卷八期
+  hash: sha256:43c772b6f6c7afd2ad42b932010ead51d130346e652f590161ecfdb19561ab0a
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_043-juan-start, juan_n: '043'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:da73658c41c24bb9658048ae42643787b4ae9734bb758ae497fe23c42d09e56b
+hash: sha256:35eb345eb294c01b9422d26f4c6e3c466c88de67a262ff400110ac310702db9d

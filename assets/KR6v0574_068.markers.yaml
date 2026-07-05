@@ -8,7 +8,6 @@ markers:
   - {type: 其他, offset: 0, content: 覆淨性居士書, id: KR6v0574_TX_068-mulu-1, level: '2'}
   - {type: line-break, offset: 6, content: '', id: KR6v0574_TX_068-0129a02, ed: TX, 'n': 0129a02}
   - {type: xml-element, offset: 6, content: '', id: pTX26p0129a0201, name: p, role: open, attrs: {'xml:id': pTX26p0129a0201, style: 'margin-left:0em;text-indent:2em'}}
-  - {type: substitution, offset: 14, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 15, content: ，, id: KR6v0574_TX_068-bkkpn1}
   - {type: punctuation, offset: 23, content: ，, id: KR6v0574_TX_068-bkkpn2}
   - {type: punctuation, offset: 30, content: 。, id: KR6v0574_TX_068-bkkpn3}
@@ -17,7 +16,6 @@ markers:
   - {type: punctuation, offset: 44, content: ，, id: KR6v0574_TX_068-bkkpn5}
   - {type: punctuation, offset: 48, content: ，, id: KR6v0574_TX_068-bkkpn6}
   - {type: punctuation, offset: 52, content: ，, id: KR6v0574_TX_068-bkkpn7}
-  - {type: substitution, offset: 58, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 61, content: ，, id: KR6v0574_TX_068-bkkpn8}
   - {type: line-break, offset: 70, content: '', id: KR6v0574_TX_068-0129a04, ed: TX, 'n': 0129a04}
   - {type: punctuation, offset: 76, content: ，, id: KR6v0574_TX_068-bkkpn9}
@@ -32,7 +30,6 @@ markers:
   - {type: line-break, offset: 136, content: '', id: KR6v0574_TX_068-0129a06, ed: TX, 'n': 0129a06}
   - {type: punctuation, offset: 138, content: ！, id: KR6v0574_TX_068-bkkpn17}
   - {type: punctuation, offset: 141, content: ，, id: KR6v0574_TX_068-bkkpn18}
-  - {type: substitution, offset: 142, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 144, content: ，, id: KR6v0574_TX_068-bkkpn19}
   - {type: punctuation, offset: 148, content: ，, id: KR6v0574_TX_068-bkkpn20}
   - {type: punctuation, offset: 152, content: ，, id: KR6v0574_TX_068-bkkpn21}
@@ -96,4 +93,4 @@ markers:
   - {type: punctuation, offset: 362, content: ）, id: KR6v0574_TX_068-bkkpn69}
   - {type: xml-element, offset: 362, content: '', id: KR6v0574_TX_068-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:e2da0b07fca3851664e1387183806fd10daf324bc61d66280be8c3ab9b59b2f9
+hash: sha256:3cab32fd5f2a8c02e4d89e1642f36d57f70aeb0ba21f06cc94e0136901c0ab09

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 覆周亮才先生書亮才先生左右欣展來教乃京華舊遊恍然心目忽聞人庵病歿殊為悵悵夏邑何地其病歿情狀可得聞乎人庵積學能文信佛已篤因之發心回向三寶者頗衆足下能為一殷人庵居士傳以登海潮音否盼盼即訊秋祺太虛合十見海潮音四卷十期
-  hash: sha256:110982a4b845eb90cbb0eeef1c569c1b9a85baa17d0ed6eff723b9320be9d67d
+  text: 覆周亮才先生書亮才先生左右欣展來教乃京華舊遊恍然心目忽聞人庵病歿殊為悵悵夏邑何地其病歿情狀可得聞乎人庵積學能文信佛已篤因之發心回向三寶者頗眾足下能為一殷人庵居士傳以登海潮音否盼盼即訊秋祺太虛合十見海潮音四卷十期
+  hash: sha256:2da7583863faa677bee7c0358c93aaabb55d657ec5fd2a1a130a3985e53813ba
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_087-juan-start, juan_n: 087}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:3e0f5d6a36597ab91b15794f92c7d0a0b24917da53af962f67755a6d47b76751
+hash: sha256:17be29caca86e867e799d33ebf635acc571ce850efb3354c37cde55707d84216

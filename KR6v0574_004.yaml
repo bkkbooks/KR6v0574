@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 辭佛學院院長書敬啓者太虛自壬戌四月八日受請為佛學院院長勉策疏慵躬任煩劇功效未宏身心已瘁今幸三年約滿且院中基金漸備原狀完整用特具書辭職請貴會即行另請院長俾獲交代而就休養不勝禱切之至此致佛學院院董會公鑒太虛和南見海刊六卷一期
-  hash: sha256:0fbc1c4e450d31f42532795d43866cda2ca712fcb06e9b28d0b526a8f02fcfd4
+  text: 辭佛學院院長書敬啟者太虛自壬戌四月八日受請為佛學院院長勉策疏慵躬任煩劇功效未宏身心已瘁今幸三年約滿且院中基金漸備原狀完整用特具書辭職請貴會即行另請院長俾獲交代而就休養不勝禱切之至此致佛學院院董會公鑒太虛和南見海刊六卷一期
+  hash: sha256:8354acd541cfc4c0626f4d455790d34fadd302802f8871483d2a06c27b1c2dac
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_004-juan-start, juan_n: '004'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:f7ce26ebbfe0d4f4212e1664d673ae0eec93a06fbabfcec5312766dfa16e1e71
+hash: sha256:b3b18220b3a3d968a8d9a5df8debae9629fa63103a8979f0dc038e212ff7ffec

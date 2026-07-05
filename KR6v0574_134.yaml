@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 復陳維東居士書維東足下展奉來書具徵留心政教但所云殆扞格難施一心無二用既為法官律師即不為佛教師而有僧亦等於無僧二佛教掌法權起他教爭故余主力減僧數而提高其質如附冊所明使不容僧生活亦即可無僧寺矣又暹羅函仍請酌復并告以收到已遲為歉順詢慧祉太虛手啓四月二十二日見海刊十四卷十期
-  hash: sha256:40440b9a98d585771926f8b2be7b2d2ba5a1faef26ab92a9b59c10c77095b897
+  text: 復陳維東居士書維東足下展奉來書具徵留心政教但所云殆扞格難施一心無二用既為法官律師即不為佛教師而有僧亦等於無僧二佛教掌法權起他教爭故余主力減僧數而提高其質如附冊所明使不容僧生活亦即可無僧寺矣又暹羅函仍請酌復并告以收到已遲為歉順詢慧祉太虛手啟四月二十二日見海刊十四卷十期
+  hash: sha256:1c027e766d65f5965448c4b1ea3bd2413c51a50e2348b05e74da268d7a6422b3
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_134-juan-start, juan_n: '134'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:abd89ba5527beb52e8bb357303d2550614f62504432ed2d72bd1dd068b68bc8c
+hash: sha256:6db718fb8789dad3809cc558aa393287ee2e826e8c5153d68433542723e016df

@@ -98,7 +98,6 @@ markers:
   - {type: line-break, offset: 500, content: '', id: KR6v0574_TX_227-0502a07, ed: TX, 'n': 0502a07}
   - {type: punctuation, offset: 505, content: ，, id: KR6v0574_TX_227-bkkpn67}
   - {type: punctuation, offset: 513, content: ，, id: KR6v0574_TX_227-bkkpn68}
-  - {type: substitution, offset: 517, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 518, content: ，, id: KR6v0574_TX_227-bkkpn69}
   - {type: punctuation, offset: 522, content: ，, id: KR6v0574_TX_227-bkkpn70}
   - {type: punctuation, offset: 526, content: 。, id: KR6v0574_TX_227-bkkpn71}
@@ -113,11 +112,10 @@ markers:
   - {type: line-break, offset: 551, content: '', id: KR6v0574_TX_227-0502a09, ed: TX, 'n': 0502a09}
   - {type: xml-element, offset: 551, content: '', id: pTX26p0502a0901, name: p, role: open, attrs: {'xml:id': pTX26p0502a0901, style: 'margin-left:6em;text-indent:-4em'}}
   - {type: punctuation, offset: 551, content: （, id: KR6v0574_TX_227-bkkpn75}
-  - {type: substitution, offset: 552, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 553, content: ）, id: KR6v0574_TX_227-bkkpn76}
   - {type: punctuation, offset: 554, content: 「, id: KR6v0574_TX_227-bkkpn77}
   - {type: punctuation, offset: 565, content: 」, id: KR6v0574_TX_227-bkkpn78}
   - {type: punctuation, offset: 567, content: 。, id: KR6v0574_TX_227-bkkpn79}
   - {type: xml-element, offset: 567, content: '', id: pTX26p0502a0901_end, name: p, role: close, attrs: {'xml:id': pTX26p0502a0901, style: 'margin-left:6em;text-indent:-4em'}}
   back: []
-hash: sha256:338156fa96d005eb92f4c11b5632e7907616211b7f85bd439559c7fe73ee2a14
+hash: sha256:5baf3f87454daaa2b6a57e0fe2cdec483d83ce890ada5e55abe29dcaa101a66f

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 賀白國防部長就職電南京國防部白部長健生先生勛鑒報載國防會議機構重新先生衆望所歸擢膺首長黔黎忭躍陸海歡騰固知李霍勛名應開東第鄂褒毛髮並會南宮以現代化之設施作第一流之領導從此有征無戰保大定功所深願也謹布賀忱伏維垂鑒太虛已東覺群一卷二期
-  hash: sha256:b918cebc2de59938727b0dc81aa4712f44de4b88383c332c1a197dd5021a1aed
+  text: 賀白國防部長就職電南京國防部白部長健生先生勛鑒報載國防會議機構重新先生眾望所歸擢膺首長黔黎忭躍陸海歡騰固知李霍勛名應開東第鄂褒毛髮並會南宮以現代化之設施作第一流之領導從此有征無戰保大定功所深願也謹布賀忱伏維垂鑒太虛已東覺群一卷二期
+  hash: sha256:62f327126a25d3d3238f8d6bbc2354e18a767c1d450e24c48a96c259f66a311a
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_176-juan-start, juan_n: '176'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:fa8b145c38a633762be5c563d147a00a7cbaf96a64758824ba16ac789ad7b1b1
+hash: sha256:d6f60b13d67e93f20d8afde744518b4f31316c2bead0ad19bacbd1299c10a920

@@ -6,7 +6,6 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR6v0574_TX_105-0183a, ed: TX, 'n': 0183a, source_xml_id: TX26.0017.0183a}
   - {type: line-break, offset: 0, content: '', id: KR6v0574_TX_105-0183a01, ed: TX, 'n': 0183a01}
   - {type: 其他, offset: 0, content: 覆楊毓芬居士書, id: KR6v0574_TX_105-mulu-1, level: '2'}
-  - {type: substitution, offset: 2, original: 毓, replacement: 育, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3878}}
   - {type: line-break, offset: 7, content: '', id: KR6v0574_TX_105-0183a02, ed: TX, 'n': 0183a02}
   - {type: xml-element, offset: 7, content: '', id: pTX26p0183a0201, name: p, role: open, attrs: {'xml:id': pTX26p0183a0201, style: 'margin-left:0em;text-indent:2em'}}
   - {type: punctuation, offset: 13, content: ：, id: KR6v0574_TX_105-bkkpn1}
@@ -48,4 +47,4 @@ markers:
   - {type: punctuation, offset: 141, content: ）, id: KR6v0574_TX_105-bkkpn31}
   - {type: xml-element, offset: 141, content: '', id: KR6v0574_TX_105-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:7363cba603ec349f42855b65223a7165bee8105e4bc44c2137ce008ba67c0ee8
+hash: sha256:ab4cbccff22c1a6b44465a36dfd33671dbcfa93d841593fc7635aac596c01f58

@@ -9,7 +9,6 @@ markers:
   - {type: xml-element, offset: 8, content: '', id: pTX26p0002a0301, name: p, role: open, attrs: {'xml:id': pTX26p0002a0301, style: 'margin-left:0em;text-indent:2em'}}
   - {type: punctuation, offset: 11, content: ：, id: KR6v0574_TX_002-bkkpn1}
   - {type: punctuation, offset: 15, content: 。, id: KR6v0574_TX_002-bkkpn2}
-  - {type: substitution, offset: 17, original: 卹, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0815}}
   - {type: punctuation, offset: 19, content: ，, id: KR6v0574_TX_002-bkkpn3}
   - {type: punctuation, offset: 28, content: ，, id: KR6v0574_TX_002-bkkpn4}
   - {type: punctuation, offset: 32, content: ！, id: KR6v0574_TX_002-bkkpn5}
@@ -45,4 +44,4 @@ markers:
   - {type: punctuation, offset: 149, content: ）, id: KR6v0574_TX_002-bkkpn29}
   - {type: xml-element, offset: 149, content: '', id: KR6v0574_TX_002-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:18549984f99cb43b15566e0706dce19dee48889f059e19897c002656d0d73420
+hash: sha256:f78f93dc3c7ee7f206f4468ff33862144209f4deee80a3f3f298283cb7ea483c

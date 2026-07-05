@@ -7,8 +7,6 @@ markers:
   - {type: 其他, offset: 0, content: 致國民政府函, id: KR6v0574_TX_009-mulu-1, level: '2'}
   - {type: line-break, offset: 6, content: '', id: KR6v0574_TX_009-0005a09, ed: TX, 'n': 0005a09}
   - {type: xml-element, offset: 6, content: '', id: pTX26p0005a0901, name: p, role: open, attrs: {'xml:id': pTX26p0005a0901, style: 'margin-left:0em;text-indent:2em'}}
-  - {type: substitution, offset: 6, original: 逕, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0550}}
-  - {type: substitution, offset: 7, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 9, content: ：, id: KR6v0574_TX_009-bkkpn1}
   - {type: punctuation, offset: 29, content: ：, id: KR6v0574_TX_009-bkkpn2}
   - {type: punctuation, offset: 38, content: ，, id: KR6v0574_TX_009-bkkpn3}
@@ -21,7 +19,6 @@ markers:
   - {type: punctuation, offset: 77, content: ，, id: KR6v0574_TX_009-bkkpn7}
   - {type: punctuation, offset: 83, content: ，, id: KR6v0574_TX_009-bkkpn8}
   - {type: punctuation, offset: 87, content: ，, id: KR6v0574_TX_009-bkkpn9}
-  - {type: substitution, offset: 94, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0038}}
   - {type: punctuation, offset: 95, content: 。, id: KR6v0574_TX_009-bkkpn10}
   - {type: punctuation, offset: 101, content: ，, id: KR6v0574_TX_009-bkkpn11}
   - {type: line-break, offset: 104, content: '', id: KR6v0574_TX_009-0006a02, ed: TX, 'n': 0006a02}
@@ -39,4 +36,4 @@ markers:
   - {type: punctuation, offset: 158, content: ）, id: KR6v0574_TX_009-bkkpn20}
   - {type: xml-element, offset: 158, content: '', id: KR6v0574_TX_009-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:96fa7f3f1c73fdf1fbd2a0fc2773be30fe8a24c2114c37e8981564c3f1f676c0
+hash: sha256:85cd164163a9dccc21a16f2436ce341197b07d7c83a007475b6ec10aa2929500
