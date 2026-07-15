@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 復閩南佛化新青年會閩南佛化青年公鑒承函示粘葉二君討論之件具見諸君慎重佛法之至意謬荷諮詢鄙見竊謂粘君語妙思玄欲人將恩怨冤親作一場夢幻觀之雖足令人深省然或致聰明者流粘玄玩世轉不若葉君之詞嚴義正於此人心陷溺之險海中有乘一葉扁舟而誕登彼岸之妙愚見如是尚祈審裁並祝公綏釋太虛和南見海刊五卷六期
-  hash: sha256:ecb7793015bacbaad2d90b455c2c19eaa1fd0bed9082514f8be9b530add7a274
+  text: 復閩南佛化新青年會閩南佛化青年公鑒承函示粘葉二君討論之件具見諸君慎重佛法之至意謬荷咨詢鄙見竊謂粘君語妙思玄欲人將恩怨冤親作一場夢幻觀之雖足令人深省然或致聰明者流粘玄玩世轉不若葉君之詞嚴義正於此人心陷溺之險海中有乘一葉扁舟而誕登彼岸之妙愚見如是尚祈審裁並祝公綏釋太虛和南見海刊五卷六期
+  hash: sha256:09d5e9d67c7e0a7a24e4109a76200e976e18ee4d6fad0dff8deea92b9d56d0e6
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_003-juan-start, juan_n: '003'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:e4038a9eff72b62c83c93b0239447b3f2b85a950ffac4f66c70916455385cd1e
+hash: sha256:cb4422072e13c778e5bf60b8660581c7d14b435c3e10994ab8c652ab22e3251f

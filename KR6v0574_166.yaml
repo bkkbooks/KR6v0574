@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 賀班禪額爾德尼就職電南京班禪大師慈鑒逖聞就職宣化弘法救世開政教之合作為通俗所宗仰特電敬賀並頌福祉廈門南普陀寺太虛叩宥見南普陀寺誌
-  hash: sha256:b94e43d47fe7572842fe05b9547ebe639e63329b4e60d45b459f7307b34a5c67
+  text: 賀班禪額爾德尼就職電南京班禪大師慈鑒逖聞就職宣化弘法救世開政教之合作為通俗所宗仰特電敬賀並頌福祉廈門南普陀寺太虛叩宥見南普陀寺志
+  hash: sha256:6664f90d3d0c0b22fe563d71ecbd0fffc64a885b35143ebdc5fbf010f7ef3eca
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_166-juan-start, juan_n: '166'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:7fea536b237ced5d1de98bccb5f45c9a74044a31539bb345b5bcda3b2bf47328
+hash: sha256:e6d2f295510b46cd026b9a42cfaa144af553a1d367b47d2d01da0f95951353c0

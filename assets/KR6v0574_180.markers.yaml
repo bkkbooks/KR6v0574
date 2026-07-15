@@ -7,6 +7,7 @@ markers:
   - {type: 其他, offset: 0, content: 為追薦羅斯福總統告全國佛教徒電, id: KR6v0574_TX_180-mulu-1, level: '2'}
   - {type: line-break, offset: 15, content: '', id: KR6v0574_TX_180-0307a06, ed: TX, 'n': 0307a06}
   - {type: xml-element, offset: 15, content: '', id: pTX26p0307a0601, name: p, role: open, attrs: {'xml:id': pTX26p0307a0601, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: substitution, offset: 22, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 25, content: ：, id: KR6v0574_TX_180-bkkpn1}
   - {type: punctuation, offset: 42, content: ，, id: KR6v0574_TX_180-bkkpn2}
   - {type: line-break, offset: 48, content: '', id: KR6v0574_TX_180-0307a07, ed: TX, 'n': 0307a07}
@@ -49,4 +50,4 @@ markers:
   - {type: line-break, offset: 158, content: '', id: KR6v0574_TX_180-0308a11, ed: TX, 'n': 0308a11}
   - {type: line-break, offset: 158, content: '', id: KR6v0574_TX_180-0308a12, ed: TX, 'n': 0308a12}
   back: []
-hash: sha256:a3659c0723630845afa4beae5f5ad1aae8177b813345797d48ca4eb46fd9973c
+hash: sha256:a49fe217285d1698716551fb57198d64c93954fd2b46fca48c83fce525778184

@@ -7,6 +7,7 @@ markers:
   - {type: 其他, offset: 0, content: 覆濟南淨居寺電, id: KR6v0574_TX_165-mulu-1, level: '2'}
   - {type: line-break, offset: 7, content: '', id: KR6v0574_TX_165-0300a07, ed: TX, 'n': 0300a07}
   - {type: xml-element, offset: 7, content: '', id: pTX26p0300a0701, name: p, role: open, attrs: {'xml:id': pTX26p0300a0701, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: substitution, offset: 18, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 23, content: ：, id: KR6v0574_TX_165-bkkpn1}
   - {type: punctuation, offset: 27, content: ，, id: KR6v0574_TX_165-bkkpn2}
   - {type: punctuation, offset: 31, content: 。, id: KR6v0574_TX_165-bkkpn3}
@@ -23,8 +24,10 @@ markers:
   - {type: xml-element, offset: 66, content: '', id: pTX26p0300a0901, name: p, role: open, attrs: {'xml:id': pTX26p0300a0901, style: 'margin-left:0em;text-indent:2em'}}
   - {type: punctuation, offset: 73, content: ，, id: KR6v0574_TX_165-bkkpn11}
   - {type: punctuation, offset: 84, content: ，, id: KR6v0574_TX_165-bkkpn12}
+  - {type: substitution, offset: 85, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 94, content: ，, id: KR6v0574_TX_165-bkkpn13}
   - {type: line-break, offset: 98, content: '', id: KR6v0574_TX_165-0300a10, ed: TX, 'n': 0300a10}
+  - {type: substitution, offset: 101, original: 甯, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16283}}
   - {type: punctuation, offset: 102, content: 。, id: KR6v0574_TX_165-bkkpn14}
   - {type: punctuation, offset: 106, content: 。, id: KR6v0574_TX_165-bkkpn15}
   - {type: xml-element, offset: 106, content: '', id: pTX26p0300a0901_end, name: p, role: close, attrs: {'xml:id': pTX26p0300a0901, style: 'margin-left:0em;text-indent:2em'}}
@@ -33,4 +36,4 @@ markers:
   - {type: punctuation, offset: 114, content: ）, id: KR6v0574_TX_165-bkkpn17}
   - {type: xml-element, offset: 114, content: '', id: KR6v0574_TX_165-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:6ae96ee91f13a8075a25c9516d809f0eb7dfc613b6b53c6dec9ca945449af034
+hash: sha256:bb95c4985ab471066936f0a10b2babfa92ab62df79beb9d8dc5ab49e3ebb83c3

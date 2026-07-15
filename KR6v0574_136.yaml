@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 復甘立仁居士書聞由音聲耳根心識三和合成根在音識之間楞嚴正選聞根雖曰音聞初步入流亡所即遺音返聞不重於音也但心聞洞十方初心不能入此為初心設方便故令即音聞而棄音入聞耳武昌佛學院出版之楞嚴研究可參閱之太虛復見正信二卷十期
-  hash: sha256:dd87e4fcc0fb0dfca9b4681e512ac9294051c1a185a47a8cb0388142e2a6a039
+  text: 復甘立仁居士書聞由音聲耳根心識三和合成根在音識之間楞嚴正選聞根雖曰音聞初步入流亡所即遺音返聞不重於音也但心聞洞十方初心不能入此為初心設方便故令即音聞而棄音入聞耳武昌佛學院出版之楞嚴研究可參閲之太虛復見正信二卷十期
+  hash: sha256:4b9652e43bd5d484fffa256368944e6c4f230ae391022dc10521a2c81b5f2858
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_136-juan-start, juan_n: '136'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:067148f0449f8b8df0d0490c924199eeacb122ade6f7a98128fdf8a3181d3012
+hash: sha256:5b55a93e907ef34b214031d5574c0e32688f503a79a723968b2beafb096a986f

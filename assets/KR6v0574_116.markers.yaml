@@ -8,6 +8,7 @@ markers:
   - {type: 其他, offset: 0, content: 致蔣總司令書, id: KR6v0574_TX_116-mulu-1, level: '2'}
   - {type: line-break, offset: 6, content: '', id: KR6v0574_TX_116-0210a02, ed: TX, 'n': 0210a02}
   - {type: xml-element, offset: 6, content: '', id: pTX26p0210a0201, name: p, role: open, attrs: {'xml:id': pTX26p0210a0201, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: substitution, offset: 8, original: 澂, replacement: 澄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17756}}
   - {type: punctuation, offset: 10, content: ：, id: KR6v0574_TX_116-bkkpn1}
   - {type: punctuation, offset: 14, content: ，, id: KR6v0574_TX_116-bkkpn2}
   - {type: punctuation, offset: 37, content: 。, id: KR6v0574_TX_116-bkkpn3}
@@ -172,6 +173,7 @@ markers:
   - {type: punctuation, offset: 938, content: —, id: KR6v0574_TX_116-bkkpn129}
   - {type: punctuation, offset: 938, content: —, id: KR6v0574_TX_116-bkkpn130}
   - {type: punctuation, offset: 938, content: ，, id: KR6v0574_TX_116-bkkpn131}
+  - {type: substitution, offset: 942, original: 摭, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20382}}
   - {type: punctuation, offset: 955, content: ，, id: KR6v0574_TX_116-bkkpn132}
   - {type: punctuation, offset: 964, content: 。, id: KR6v0574_TX_116-bkkpn133}
   - {type: line-break, offset: 965, content: '', id: KR6v0574_TX_116-0212a09, ed: TX, 'n': 0212a09}
@@ -223,4 +225,4 @@ markers:
   - {type: punctuation, offset: 1230, content: ）, id: KR6v0574_TX_116-bkkpn168}
   - {type: xml-element, offset: 1230, content: '', id: KR6v0574_TX_116-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:f706c99dd20db26730894129f10e3312e0aa5396e7e00260e4572fbf4bb23bcd
+hash: sha256:c7c81772aec1357c48c4f6bb02d2f3022d427b9eea9422e858929bf5c4605107

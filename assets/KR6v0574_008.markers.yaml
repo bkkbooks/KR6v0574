@@ -8,6 +8,7 @@ markers:
   - {type: 其他, offset: 0, content: 覆梅埔六屬佛學院籌備處書, id: KR6v0574_TX_008-mulu-1, level: '2'}
   - {type: line-break, offset: 12, content: '', id: KR6v0574_TX_008-0005a02, ed: TX, 'n': 0005a02}
   - {type: xml-element, offset: 12, content: '', id: pTX26p0005a0201, name: p, role: open, attrs: {'xml:id': pTX26p0005a0201, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: substitution, offset: 12, original: 逕, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16737}}
   - {type: punctuation, offset: 15, content: ：, id: KR6v0574_TX_008-bkkpn1}
   - {type: punctuation, offset: 19, content: ，, id: KR6v0574_TX_008-bkkpn2}
   - {type: punctuation, offset: 23, content: 。, id: KR6v0574_TX_008-bkkpn3}
@@ -24,6 +25,7 @@ markers:
   - {type: punctuation, offset: 74, content: ，, id: KR6v0574_TX_008-bkkpn12}
   - {type: punctuation, offset: 78, content: ，, id: KR6v0574_TX_008-bkkpn13}
   - {type: punctuation, offset: 82, content: 。, id: KR6v0574_TX_008-bkkpn14}
+  - {type: substitution, offset: 91, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 100, content: ，, id: KR6v0574_TX_008-bkkpn15}
   - {type: line-break, offset: 106, content: '', id: KR6v0574_TX_008-0005a05, ed: TX, 'n': 0005a05}
   - {type: punctuation, offset: 112, content: ，, id: KR6v0574_TX_008-bkkpn16}
@@ -33,6 +35,7 @@ markers:
   - {type: punctuation, offset: 130, content: ，, id: KR6v0574_TX_008-bkkpn20}
   - {type: punctuation, offset: 134, content: ！, id: KR6v0574_TX_008-bkkpn21}
   - {type: line-break, offset: 137, content: '', id: KR6v0574_TX_008-0005a06, ed: TX, 'n': 0005a06}
+  - {type: substitution, offset: 148, original: 准, replacement: 準, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17193}}
   - {type: punctuation, offset: 151, content: ，, id: KR6v0574_TX_008-bkkpn22}
   - {type: punctuation, offset: 155, content: 。, id: KR6v0574_TX_008-bkkpn23}
   - {type: punctuation, offset: 167, content: 。, id: KR6v0574_TX_008-bkkpn24}
@@ -44,4 +47,4 @@ markers:
   - {type: punctuation, offset: 179, content: ）, id: KR6v0574_TX_008-bkkpn27}
   - {type: xml-element, offset: 179, content: '', id: KR6v0574_TX_008-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:3b9536e6959f2cf4203c333af0798cc79e491fe64bef933a71007d1ea9bedf26
+hash: sha256:471b1a7fa044194e0e204755df1ada2d6ba986e7a7bfff737033f073a42a7141

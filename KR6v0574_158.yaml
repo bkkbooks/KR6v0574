@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 復長沙趙省長等電長沙趙省長寶生和尚王師長均鑒電悉講經修法為國祈福理當應召惟滯晉留京事緣未了更須急赴甯波天童寺之約故擬祈轉請道階法師至湘以成勝舉太虛叩微海刊六卷五期
-  hash: sha256:6c9f47cadc859860fce211c33d9a1ea2761070c1e78b8a1f5ef8fd3b1d2a5a5d
+  text: 復長沙趙省長等電長沙趙省長寶生和尚王師長均鑒電悉講經修法為國祈福理當應召惟滯晉留京事緣未了更須急赴寧波天童寺之約故擬祈轉請道階法師至湘以成勝舉太虛叩微海刊六卷五期
+  hash: sha256:43191b78972885154b6d2abef90fb42dc4ac47a3c56e48bc2134418ef924584c
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_158-juan-start, juan_n: '158'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:d3c99278e4fc9ee992598bf59a290f6869908e6d968c0fe0f2c37bb9cca0da6e
+hash: sha256:45fd731c78caf981b2fecc953adafab39024001313c27ef4c989f3e945289818

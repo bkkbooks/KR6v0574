@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 復妙曇女士書於海潮音月刊加傳記及修續比丘尼傳甚善甚善採輯有得當即可披露於雜記門所論佛教平等真理於第六期海潮音上當有一篇發表至大慈師時機已到宜於出家之語可於本刊第二期復志禪君信中得之女士靈根夙植慧悟超人乃能以深通佛法戒行精嚴抱大慈悲心以宏揚佛法為懷為佛法幸為眾生幸曷其有極見海刊一卷四期
-  hash: sha256:10bccc6668b55b8d9c71128b32e4014b8a804f62cccdc73fe140c5c8916e8ee2
+  text: 復妙曇女士書於海潮音月刊加傳記及修續比丘尼傳甚善甚善採輯有得當即可披露於雜記門所論佛教平等真理於第六期海潮音上當有一篇發表至大慈師時機已到宜於出家之語可於本刊第二期復志禪君信中得之女士靈根夙植慧悟超人乃能以深通佛法戒行精嚴抱大慈悲心以宏揚佛法為懷為佛法幸為衆生幸曷其有極見海刊一卷四期
+  hash: sha256:e1b8cf9b23cd6f8222b52b6c73de6300ad658e383032b4aa04d5027f3024b146
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_069-juan-start, juan_n: 069}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:210ba39825a64da3a423721ffbe77035c219dced12ff9910f3da07550df14e75
+hash: sha256:a02265da4dc378dd5f538fb0f1ada0dfd1f8af699267d4367d69c79f89ae3766

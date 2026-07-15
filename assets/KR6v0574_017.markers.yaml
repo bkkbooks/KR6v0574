@@ -23,6 +23,7 @@ markers:
   - {type: punctuation, offset: 137, content: ，, id: KR6v0574_TX_017-bkkpn11}
   - {type: line-break, offset: 142, content: '', id: KR6v0574_TX_017-0017a11, ed: TX, 'n': 0017a11}
   - {type: punctuation, offset: 150, content: ；, id: KR6v0574_TX_017-bkkpn12}
+  - {type: substitution, offset: 158, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 159, content: ，, id: KR6v0574_TX_017-bkkpn13}
   - {type: punctuation, offset: 164, content: 、, id: KR6v0574_TX_017-bkkpn14}
   - {type: punctuation, offset: 166, content: 、, id: KR6v0574_TX_017-bkkpn15}
@@ -42,6 +43,7 @@ markers:
   - {type: line-break, offset: 236, content: '', id: KR6v0574_TX_017-0018a03, ed: TX, 'n': 0018a03}
   - {type: punctuation, offset: 249, content: 。, id: KR6v0574_TX_017-bkkpn24}
   - {type: punctuation, offset: 253, content: ，, id: KR6v0574_TX_017-bkkpn25}
+  - {type: substitution, offset: 256, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 257, content: 。, id: KR6v0574_TX_017-bkkpn26}
   - {type: xml-element, offset: 257, content: '', id: pTX26p0018a0201_end, name: p, role: close, attrs: {'xml:id': pTX26p0018a0201, style: 'margin-left:0em;text-indent:2em'}}
   - {type: xml-element, offset: 257, content: '', id: KR6v0574_TX_017-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
@@ -49,4 +51,4 @@ markers:
   - {type: punctuation, offset: 264, content: ）, id: KR6v0574_TX_017-bkkpn28}
   - {type: xml-element, offset: 264, content: '', id: KR6v0574_TX_017-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:2e55b664c655b0c78bbb86baf8ac792375e96a459695324f55742dfcde27fc68
+hash: sha256:1f134501cbd6ac90aa42ee2799c06a87ce582b169718171cd95fa3a10a92b46f

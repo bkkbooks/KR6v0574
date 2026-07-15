@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 覆英國三真社書承贈以貴社社刊藉悉有東西聯合鄰居互助信仰同盟之三重運動與太虛素來所主張者頗多符合囑令參加至所願欲惟大乘佛法實為東西文化之唯一橋樑亦為人類和合精神統一之要素冀於此深注意焉此頌大安太虛謹啟見海刊九卷十一期
-  hash: sha256:8d3399d0f8f0cd9f47ae5bc59e745ae62dfcda90e8ddf56bc1fdee8a491524f7
+  text: 覆英國三真社書承贈以貴社社刊藉悉有東西聯合鄰居互助信仰同盟之三重運動與太虛素來所主張者頗多符合囑令參加至所願欲惟大乘佛法實為東西文化之唯一橋梁亦為人類和合精神統一之要素冀於此深注意焉此頌大安太虛謹啓見海刊九卷十一期
+  hash: sha256:c2ebdcd8173d0c4eb885f205df07804919360d2308de34aa05dbed3a6e53615a
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_012-juan-start, juan_n: '012'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:5342805bd2cced135f46596e5b92cc98250e487c72f1e2faa2e2c9e422d4b87a
+hash: sha256:3627d204845281114a712e3815b15c329a4f8af1c248c7d398863d836c1d5afb

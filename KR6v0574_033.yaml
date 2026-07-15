@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 致鐵禪法師書逕啟者頃據梅埔六屬佛學院籌備處代表釋桑空等函稱組織梅埔六屬佛學院函請咨呈國民政府轉飭梅埔縣屬出示保護以利開辦而興佛事等因查該代表等組織佛學院出至精誠將來開展至何程度未可限量除一面照准轉咨國民政府請予轉飭梅埔縣屬出示保護外更應照准函請法師就近贊助以利進行期臻完善此致鐵禪法師釋太虛和南見海刊七卷三期
-  hash: sha256:0dd767c64b0bd365019b31616622f1bce140475ebeb2056fbb24967e46bcf625
+  text: 致鐵禪法師書徑啓者頃據梅埔六屬佛學院籌備處代表釋桑空等函稱組織梅埔六屬佛學院函請咨呈國民政府轉飭梅埔縣屬出示保護以利開辦而興佛事等因查該代表等組織佛學院出至精誠將來開展至何程度未可限量除一面照準轉咨國民政府請豫轉飭梅埔縣屬出示保護外更應照準函請法師就近贊助以利進行期臻完善此致鐵禪法師釋太虛和南見海刊七卷三期
+  hash: sha256:ad1661a1745825d5c813056f91f624baa184dae0cae94718d8d3b05fdebf259d
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_033-juan-start, juan_n: '033'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:d29bef626a740d68f30ed2d554da6cd708bf25c2936c16f728b12aab9ae95b37
+hash: sha256:9a8ba71e1f54f30f42bd1aad25e84cd4f7655df29df3d7e5e1dd55808f900c8b

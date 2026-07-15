@@ -9,6 +9,7 @@ markers:
   - {type: xml-element, offset: 6, content: '', id: pTX26p0218a0501, name: p, role: open, attrs: {'xml:id': pTX26p0218a0501, style: 'margin-left:0em;text-indent:2em'}}
   - {type: punctuation, offset: 12, content: ！, id: KR6v0574_TX_121-bkkpn1}
   - {type: punctuation, offset: 16, content: ，, id: KR6v0574_TX_121-bkkpn2}
+  - {type: substitution, offset: 30, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 31, content: ，, id: KR6v0574_TX_121-bkkpn3}
   - {type: punctuation, offset: 36, content: ！, id: KR6v0574_TX_121-bkkpn4}
   - {type: line-break, offset: 37, content: '', id: KR6v0574_TX_121-0218a06, ed: TX, 'n': 0218a06}
@@ -18,6 +19,7 @@ markers:
   - {type: punctuation, offset: 66, content: ，, id: KR6v0574_TX_121-bkkpn8}
   - {type: line-break, offset: 70, content: '', id: KR6v0574_TX_121-0218a07, ed: TX, 'n': 0218a07}
   - {type: punctuation, offset: 70, content: ！, id: KR6v0574_TX_121-bkkpn9}
+  - {type: substitution, offset: 72, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 73, content: 。, id: KR6v0574_TX_121-bkkpn10}
   - {type: punctuation, offset: 81, content: 。, id: KR6v0574_TX_121-bkkpn11}
   - {type: xml-element, offset: 81, content: '', id: pTX26p0218a0501_end, name: p, role: close, attrs: {'xml:id': pTX26p0218a0501, style: 'margin-left:0em;text-indent:2em'}}
@@ -26,4 +28,4 @@ markers:
   - {type: punctuation, offset: 89, content: ）, id: KR6v0574_TX_121-bkkpn13}
   - {type: xml-element, offset: 89, content: '', id: KR6v0574_TX_121-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:b19104f6c4eb0efd7c8054db69ec05082012430f79f557a79251fb7cff699ebd
+hash: sha256:5034584c498b7e3617ea70bd5f693d835d741b25ec5292abd3599d79d3a0c731

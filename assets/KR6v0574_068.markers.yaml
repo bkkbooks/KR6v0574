@@ -8,6 +8,7 @@ markers:
   - {type: 其他, offset: 0, content: 覆淨性居士書, id: KR6v0574_TX_068-mulu-1, level: '2'}
   - {type: line-break, offset: 6, content: '', id: KR6v0574_TX_068-0129a02, ed: TX, 'n': 0129a02}
   - {type: xml-element, offset: 6, content: '', id: pTX26p0129a0201, name: p, role: open, attrs: {'xml:id': pTX26p0129a0201, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: substitution, offset: 14, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 15, content: ，, id: KR6v0574_TX_068-bkkpn1}
   - {type: punctuation, offset: 23, content: ，, id: KR6v0574_TX_068-bkkpn2}
   - {type: punctuation, offset: 30, content: 。, id: KR6v0574_TX_068-bkkpn3}
@@ -93,4 +94,4 @@ markers:
   - {type: punctuation, offset: 362, content: ）, id: KR6v0574_TX_068-bkkpn69}
   - {type: xml-element, offset: 362, content: '', id: KR6v0574_TX_068-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:3cab32fd5f2a8c02e4d89e1642f36d57f70aeb0ba21f06cc94e0136901c0ab09
+hash: sha256:e61f9c970d84638e60a4ea22c7501c00d9e97da61f04bb4fcb1fe8aa6ab7c567

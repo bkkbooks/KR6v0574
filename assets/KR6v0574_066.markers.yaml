@@ -4,5 +4,6 @@ markers:
   front: []
   body:
   - {type: 其他, offset: 0, content: 復志禪先生書, id: KR6v0574_TX_066-mulu-1, level: '2'}
+  - {type: substitution, offset: 78, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   back: []
-hash: sha256:7d8649c408074577be76e5b7188f7cb90fbd02871c55f49a1495d27a1b949c35
+hash: sha256:93751c69bcbd34a955e2da1f5591d9f9db0c71f9323038584d092112fb63f964

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 答善因法師書善因法師承賜函商論佛法欣感欣感論宗教出世二條不唯可補足覺社前此評論之餘義且深得佛法之正至論宗名一節弟對於此條現尚在徵求批評再為遴擇尊說亦存之以供眾論佛元二九四六年十二月十六日太虛見海刊一卷一期
-  hash: sha256:9a460760203348d4f4b63436532d814f3695d85b5944cf08e95c0b3d8b814c61
+  text: 答善因法師書善因法師承賜函商論佛法欣感欣感論宗教出世二條不唯可補足覺社前此評論之餘義且深得佛法之正至論宗名一節弟對於此條現尚在徵求批評再為遴擇尊説亦存之以供衆論佛元二九四六年十二月十六日太虛見海刊一卷一期
+  hash: sha256:425a7e2e4dcfcdd835053f18be98cb0cdac08ddf236799b674a048a819977c51
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_024-juan-start, juan_n: '024'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:7bc542e88435de2ccf2ff3066a820a64fa1bc0c39712265ee371a971957cbb81
+hash: sha256:8b734066baa9da5d01cd7866fcbf412f5a67c909c6bcddbc610732039fe0d10c

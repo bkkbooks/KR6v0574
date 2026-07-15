@@ -20,7 +20,8 @@ markers:
   - {type: xml-element, offset: 58, content: '', id: pTX26p0301a0201_end, name: p, role: close, attrs: {'xml:id': pTX26p0301a0201, style: 'margin-left:0em;text-indent:2em'}}
   - {type: xml-element, offset: 58, content: '', id: KR6v0574_TX_166-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': other}}
   - {type: punctuation, offset: 58, content: （, id: KR6v0574_TX_166-bkkpn9}
+  - {type: substitution, offset: 63, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 64, content: ）, id: KR6v0574_TX_166-bkkpn10}
   - {type: xml-element, offset: 64, content: '', id: KR6v0574_TX_166-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:979bcdb7553d6f7f81223db150a10fc69bab8a3c8b4ecad44616f7e9356939e5
+hash: sha256:67823266231b7378e69086df4b7bb1a16caf84e579acbc34c1c0b29b8381220f

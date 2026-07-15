@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 電賀蔣主席國民政府主席蔣鈞鑒頃披官報敬讅十一中全會公選鈞座為國民政府主席兼海陸空軍大元帥眾望所歸曷勝欽忭揆文奮武負抗建之重任邁古鑠今致國族於復興同盟居四強之列世界奠和平之基偉烈豐功永垂萬代景瞻吉座謳頌無量特電申賀恭叩崇綏中國佛學會理事長太虛叩刪見三十二年十一月四日佛化新聞
-  hash: sha256:dd2a526c085bf69e0a02aea694a981ef981971ddd36cbaeb4d4129f2f5223d2a
+  text: 電賀蔣主席國民政府主席蔣鈞鑒頃披官報敬讅十一中全會公選鈞座為國民政府主席兼海陸空軍大元帥衆望所歸曷勝欽忭揆文奮武負抗建之重任邁古鑠今致國族於復興同盟居四強之列世界奠和平之基偉烈豐功永垂萬代景瞻吉座謳頌無量特電申賀恭叩崇綏中國佛學會理事長太虛叩刪見三十二年十一月四日佛化新聞
+  hash: sha256:282337a3195a4d739b8b12a61ceff007df2a358134c11e09007225819a25b406
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_170-juan-start, juan_n: '170'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:dd9fe95fbfa8a980352d7b9e409c6482953e8dbfc68ee29e392f275c271921f8
+hash: sha256:c9fd1ef66f81a1d055ba1a145964b2187691477e3bf868eefebc1f4ceea98e62

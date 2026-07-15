@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 電勸甘地進食印度聖雄甘地鑒廢除階級實現人類平等為佛徒共欽頃又聞絕食三週咸恐礙及康壽吾國譚君雲山因亦隨絕食懇停此舉敬願印人速從聖雄主張聖雄應為愛世界眾生即日進食中國佛學會會長太虛十四見海刊十四卷七期
-  hash: sha256:e4195746562a1257b11143867395dad7fe0f23c340c5304f95b9d5b20788c12f
+  text: 電勸甘地進食印度聖雄甘地鑒廢除階級實現人類平等為佛徒共欽頃又聞絶食三周咸恐礙及康壽吾國談君雲山因亦隨絶食懇停此舉敬願印人速從聖雄主張聖雄應為愛世界衆生即日進食中國佛學會會長太虛十四見海刊十四卷七期
+  hash: sha256:f53b7ba393c8a8d5ddc13dc481c4ffa2a69356d87de0d57d0e2c77fb944ddb4a
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_161-juan-start, juan_n: '161'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:8c1831e1f7263b1eca5f2f52572366db2192affd2edf2a5294e6dd8e549d122e
+hash: sha256:a29daad76c55ac01eb54e432f95dfd502702864a59168f1df51bb20d96e3f560

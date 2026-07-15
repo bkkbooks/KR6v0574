@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 致班禪熊希齡函班禪大師秉三先生均鑒頃接四川佛教會來電云云太虛但講經耳不知其可茲幸五族佛徒班師允為領袖各區教產秉公素殷護持而又值二公均列議席為此敬陳來電祈察至所關佛教宏護之事應如何籌議施行統希尊裁為荷專此恭請大安太虛和南見海刊六卷三期
-  hash: sha256:98b62f2115e2465f29e947ca817cec27758f5c044d71327fd3d5cb1bb126129b
+  text: 致班禪熊希齡函班禪大師秉三先生均鑒頃接四川佛教會來電云云太虛但講經耳不知其可茲幸五族佛徒班師允為領袖各區教産秉公素殷護持而又值二公均列議席為此敬陳來電祈察至所關佛教宏護之事應如何籌議施行統希尊裁為荷專此恭請大安太虛和南見海刊六卷三期
+  hash: sha256:50364dbb14f521f58547ab6e4485e8a0711d28779f807cc5ca71d6d19c745a3d
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_032-juan-start, juan_n: '032'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:ef1f11783696c7ee9028efc001cb049afc1bab9c38abcbce5bdb536e84b23bc0
+hash: sha256:99df18b72db7bcbd4b3c75da7e20701fd8d39b9e8a3f708a6b649e46c79ef138

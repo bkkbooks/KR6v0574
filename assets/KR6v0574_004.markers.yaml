@@ -7,6 +7,7 @@ markers:
   - {type: 其他, offset: 0, content: 辭佛學院院長書, id: KR6v0574_TX_004-mulu-1, level: '2'}
   - {type: line-break, offset: 7, content: '', id: KR6v0574_TX_004-0003a04, ed: TX, 'n': 0003a04}
   - {type: xml-element, offset: 7, content: '', id: pTX26p0003a0401, name: p, role: open, attrs: {'xml:id': pTX26p0003a0401, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: substitution, offset: 8, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 10, content: ：, id: KR6v0574_TX_004-bkkpn1}
   - {type: punctuation, offset: 27, content: ，, id: KR6v0574_TX_004-bkkpn2}
   - {type: punctuation, offset: 31, content: ，, id: KR6v0574_TX_004-bkkpn3}
@@ -31,4 +32,4 @@ markers:
   - {type: punctuation, offset: 110, content: ）, id: KR6v0574_TX_004-bkkpn17}
   - {type: xml-element, offset: 110, content: '', id: KR6v0574_TX_004-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:8b626c8d27e280b2c510cf79b63dddd9bf21fca4f3583e0083a21dcba530a31d
+hash: sha256:59a75df204b287e2b6032fcc14324514f14d1da9f97aed6d03bfa55a41b3441a

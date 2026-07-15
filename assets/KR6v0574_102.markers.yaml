@@ -9,6 +9,8 @@ markers:
   - {type: line-break, offset: 6, content: '', id: KR6v0574_TX_102-0178a02, ed: TX, 'n': 0178a02}
   - {type: xml-element, offset: 6, content: '', id: pTX26p0178a0201, name: p, role: open, attrs: {'xml:id': pTX26p0178a0201, style: 'margin-left:0em;text-indent:2em'}}
   - {type: punctuation, offset: 15, content: ：, id: KR6v0574_TX_102-bkkpn1}
+  - {type: substitution, offset: 15, original: 逕, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16737}}
+  - {type: substitution, offset: 16, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 18, content: ：, id: KR6v0574_TX_102-bkkpn2}
   - {type: punctuation, offset: 33, content: ，, id: KR6v0574_TX_102-bkkpn3}
   - {type: line-break, offset: 38, content: '', id: KR6v0574_TX_102-0178a03, ed: TX, 'n': 0178a03}
@@ -40,4 +42,4 @@ markers:
   - {type: punctuation, offset: 155, content: ）, id: KR6v0574_TX_102-bkkpn24}
   - {type: xml-element, offset: 155, content: '', id: KR6v0574_TX_102-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:8c0e0f69084ca624a428a7bcdf6bbf2cdbc63295aa3ee5ded37fee12fc877f53
+hash: sha256:650b98b68c8c3e682f50052e724791945a0cee002c62fa8e8016d1c4f76209a8

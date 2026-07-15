@@ -4,5 +4,6 @@ markers:
   front: []
   body:
   - {type: 其他, offset: 0, content: 答尚法圓問（三則）, id: KR6v0574_TX_222-mulu-1, level: '2'}
+  - {type: substitution, offset: 237, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   back: []
-hash: sha256:401f2c5ac3e3674358587f7debbe9f895d00438516f3f38e87430c2ed7805532
+hash: sha256:48d9bc75101c6faedbcdd23a2f157af31c0c79585c1640587cbf2d3ce46960a3

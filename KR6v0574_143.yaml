@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 復廣盈君書天津廣盈君鑒閱來書欲復而無地名請速告通訊地址蓋來函所云雖為非佛法之道術能善用之亦可為助道方便但須毫無隱瞞以細述詳告乃可回答之耳太虛啟九月二日見海刊十七卷九期
-  hash: sha256:f4d78f9509190668026ba30f62817966a8d11cae5fbdfe0c0560290c65e3f7fe
+  text: 復廣盈君書天津廣盈君鑒閲來書欲復而無地名請速告通訊地址蓋來函所云雖為非佛法之道術能善用之亦可為助道方便但須毫無隱瞞以細述詳告乃可回答之耳太虛啓九月二日見海刊十七卷九期
+  hash: sha256:53ffdbc2f08147b3268767ae7e230e853c22b39e035f7cd7eea90ea8d27d57cc
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0574_TX_143-juan-start, juan_n: '143'}
 metadata:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/TX/TX26/TX26n0017.xml
     old_id: TX26n0017
-hash: sha256:4183f9202dc90155a27a44cc72192958896b397f0ebf74dca14980bc1a969f63
+hash: sha256:6c886d3b2027c7c93fa96c0d17a0471ff25bcc81feb3493d4ad4c27f54b6d3fa

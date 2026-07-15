@@ -4,5 +4,6 @@ markers:
   front: []
   body:
   - {type: 其他, offset: 0, content: 答葦舫問, id: KR6v0574_TX_232-mulu-1, level: '2'}
+  - {type: substitution, offset: 189, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   back: []
-hash: sha256:f2e560f7248ad7e236e07e1cb072507a07accc92cc70ab3a72c64ce9fa7f0883
+hash: sha256:6742e8616b3909148785387d6e60c2a73dea59791bf5a29e82b27ed659d83325

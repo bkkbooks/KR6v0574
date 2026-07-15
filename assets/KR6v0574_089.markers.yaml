@@ -7,6 +7,8 @@ markers:
   - {type: 其他, offset: 0, content: 致湖北教育廳長書, id: KR6v0574_TX_089-mulu-1, level: '2'}
   - {type: line-break, offset: 8, content: '', id: KR6v0574_TX_089-0157a03, ed: TX, 'n': 0157a03}
   - {type: xml-element, offset: 8, content: '', id: pTX26p0157a0301, name: p, role: open, attrs: {'xml:id': pTX26p0157a0301, style: 'margin-left:0em;text-indent:2em'}}
+  - {type: substitution, offset: 8, original: 逕, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16737}}
+  - {type: substitution, offset: 9, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 11, content: ：, id: KR6v0574_TX_089-bkkpn1}
   - {type: punctuation, offset: 19, content: ，, id: KR6v0574_TX_089-bkkpn2}
   - {type: punctuation, offset: 23, content: ！, id: KR6v0574_TX_089-bkkpn3}
@@ -98,4 +100,4 @@ markers:
   - {type: punctuation, offset: 290, content: ）, id: KR6v0574_TX_089-bkkpn77}
   - {type: xml-element, offset: 290, content: '', id: KR6v0574_TX_089-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': other}}
   back: []
-hash: sha256:acd3bbdd6134159d51b4b456badc9087dbd22f8bbc729f74d48680a2451d7796
+hash: sha256:afb0b5d1e22adf16225186b6cd1f6df4d75c880238324447b4f93a762623a521
